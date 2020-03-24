@@ -44,7 +44,7 @@
 				<div class="col-lg-6">
 					<a href="https://www.vultr.com/news/Vultr-Native-Kubernetes-Support/" class="widget widget--last-post m-b-0x has-hover">
 						<div class="widget__media">
-							<img src="./SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com_files/k8tooling_v1_twitter.webp" alt="">
+							<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="">
 						</div>
 						<div class="widget__body">
 							<div class="widget__content">

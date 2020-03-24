@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 Route::get('/about', function () {
@@ -27,10 +27,10 @@ Route::get('/privacy', function () {
     return view('privacy');
 });
 
-Route::get('/tools/{tool}', function () {
-    return view('welcome');
+Route::get('/tools/jsonformatter', function () {
+    return view('tools.json_formatter');
 });
 
 Route::get('/tools', function () {
-    return view('welcome');
+    return view('tools.index');
 });

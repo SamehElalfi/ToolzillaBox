@@ -15,7 +15,7 @@
 				</svg>
 			</div>
 			<div class="brand__favicon">
-				<img src="./SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com_files/favicon.svg" alt="Vultr">
+				<img src="/dist/img/brand/favicon.svg" alt="Vultr">
 			</div>
 		</a>
 		<button class="navbar__burger burger" data-open-nav="[data-main-menu]">
