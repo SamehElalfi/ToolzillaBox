@@ -1,7 +1,7 @@
 <div class="box__content">
     <div class="row row--xs">
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/cpanel">
+            <a class="application" href="/soon/cpanel">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--cpanel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 56" width="62" height="56">
                         <g>
@@ -10,44 +10,50 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">cPanel</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">cPanel</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/docker">
+            <a class="application" href="/soon/docker">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--docker" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
-                            <path class="app-icon_shape" d="M54.5,3h-5.6c-2.5,0-4.9,1.2-6.4,3.3C41,4.2,38.7,3,36.1,3h-5.6C29.7,3,29,3.7,29,4.5v2.6
-		c0,4.3,3.5,7.9,7.9,7.9l0,0H40v4.3c0,4.3-3.5,7.7-7.7,7.7H2.5C1.7,27,1,27.7,1,28.5v0.6c0,6.6,2.7,13,7.6,17.6
-		c4.4,4.2,10.2,6.5,16.3,6.5c0.5,0,1,0,1.5,0c13.2-0.8,23.3-12.3,22.4-25.5c-0.3-4.6-1.9-8.9-4.6-12.6h4c4.3,0,7.8-3.5,7.8-7.9V4.5
-		C56,3.7,55.3,3,54.5,3z M6,34.4c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1c0,2.3-1.8,4.1-4.1,4.1h0C7.8,38.5,6,36.6,6,34.4z
-		M26.1,50.1c-5.7,0.4-11.4-1.7-15.5-5.6c-0.8-0.8-1.5-1.6-2.2-2.5h14.9l3.1,8L26.1,50.1z"></path>
+                            <path class="app-icon_shape" d="M54.5,3h-5.6c-2.5,0-4.9,1.2-6.4,3.3C41,4.2,38.7,3,36.1,3h-5.6C29.7,3,29,3.7,29,4.5v2.6c0,4.3,3.5,7.9,7.9,7.9l0,0H40v4.3c0,4.3-3.5,7.7-7.7,7.7H2.5C1.7,27,1,27.7,1,28.5v0.6c0,6.6,2.7,13,7.6,17.6c4.4,4.2,10.2,6.5,16.3,6.5c0.5,0,1,0,1.5,0c13.2-0.8,23.3-12.3,22.4-25.5c-0.3-4.6-1.9-8.9-4.6-12.6h4c4.3,0,7.8-3.5,7.8-7.9V4.5C56,3.7,55.3,3,54.5,3z M6,34.4c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1c0,2.3-1.8,4.1-4.1,4.1h0C7.8,38.5,6,36.6,6,34.4zM26.1,50.1c-5.7,0.4-11.4-1.7-15.5-5.6c-0.8-0.8-1.5-1.6-2.2-2.5h14.9l3.1,8L26.1,50.1z"></path>
                             <path class="app-icon_shape" d="M6.5,14h5c0.8,0,1.5,0.7,1.5,1.5v5c0,0.8-0.7,1.5-1.5,1.5h-5C5.7,22,5,21.3,5,20.5v-5C5,14.7,5.7,14,6.5,14z"></path>
                             <path class="app-icon_shape" d="M17.5,14h5c0.8,0,1.5,0.7,1.5,1.5v5c0,0.8-0.7,1.5-1.5,1.5h-5c-0.8,0-1.5-0.7-1.5-1.5v-5C16,14.7,16.7,14,17.5,14z"></path>
                             <path class="app-icon_shape" d="M17.5,3h5C23.3,3,24,3.7,24,4.5v5c0,0.8-0.7,1.5-1.5,1.5h-5c-0.8,0-1.5-0.7-1.5-1.5v-5C16,3.7,16.7,3,17.5,3z"></path>
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Docker</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Docker</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/apps/drupal">
+            <a class="application" href="/soon/drupal">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--drupal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -55,18 +61,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Drupal</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Drupal</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/gitlab">
+            <a class="application" href="/soon/gitlab">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--gitlab" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -74,18 +85,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">GitLab</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">GitLab</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/apps/joomla">
+            <a class="application" href="/soon/joomla">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--joomla" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -96,18 +112,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Joomla</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Joomla</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/lamp">
+            <a class="application" href="/soon/lamp">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--lamp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -115,18 +136,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">LAMP</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">LAMP</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/lemp">
+            <a class="application" href="/soon/lemp">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--lemp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -134,18 +160,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">LEMP</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">LEMP</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/apps/magento">
+            <a class="application" href="/soon/magento">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--magento" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -154,18 +185,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Magento</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Magento</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/apps/mediawiki">
+            <a class="application" href="/soon/mediawiki">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--mediawiki" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 58" width="58" height="58">
                         <g>
@@ -191,18 +227,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">MediaWiki</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">MediaWiki</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/minecraft">
+            <a class="application" href="/soon/minecraft">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--wordpressg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -210,18 +251,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Minecraft</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Minecraft</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/nextcloud">
+            <a class="application" href="/soon/nextcloud">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--nextcloud" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 56" width="68" height="56">
                         <g>
@@ -234,36 +280,46 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Nextcloud</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Nextcloud</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/openlitespeed">
+            <a class="application" href="/soon/openlitespeed">
                 <div class="application__icon">
                     <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
                     <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" class="app-icon app-icon--openlitespeed" viewBox="0 0 56 56" width="56" height="56" id="svg2" version="1.1">
                         <path class="app-icon_shape" d="m 49.163382,12.501392 c -0.07716,-0.104111 -0.195958,-0.168536 -0.322358,-0.178568 -0.127959,-0.01047 -0.253691,0.03701 -0.346431,0.127071 l -2.087068,2.080379 c -0.152709,0.152485 -0.171436,0.393694 -0.04861,0.56914 2.692102,3.805856 4.118848,8.265786 4.118848,12.902502 0,12.390654 -10.09849,22.473763 -22.511438,22.473763 -0.860725,0 -1.756906,-0.06263 -2.814487,-0.194166 -0.06573,-0.0094 -0.34755,-0.05257 -0.52544,-0.08137 -0.885705,-0.13577 -1.70296,-0.30519 -2.497931,-0.516752 0,0 -0.125732,-0.03184 -0.152481,-0.04105 -0.0087,-0.001 -0.01473,-0.0042 -0.02321,-0.0073 -1.00452,-0.282662 -1.982959,-0.631324 -2.912353,-1.038833 -0.696656,-0.300958 -1.392866,-0.666565 -2.085285,-1.063601 l 26.963343,-14.26241 c 1.087225,-0.576499 1.748215,-1.602649 1.768722,-2.744043 0.02338,-1.144525 -0.598784,-2.195192 -1.663726,-2.811142 L 35.388553,22.717367 48.66536,9.4398982 C 49.994241,8.1145807 49.752137,6.8670665 49.491755,6.2484365 49.104303,5.2954117 48.103794,4.6299671 47.059147,4.6299671 c -0.530345,0 -1.028816,0.140222 -1.614015,0.4536617 L 12.092628,22.721156 c -1.091911,0.575158 -1.756018,1.605318 -1.776973,2.757864 -0.01651,1.146523 0.611719,2.194069 1.678437,2.800667 l 8.648558,4.976686 -9.442187,9.440171 c -0.02921,0.01822 -0.05485,0.0421 -0.08136,0.06535 -0.398822,-0.457223 -0.785828,-0.922699 -1.1438537,-1.40423 -2.0761443,-2.80067 -3.4411426,-5.894924 -4.0548675,-9.19585 -0.00914,-0.04702 -0.016941,-0.09541 -0.022293,-0.142452 -0.00178,-0.0094 -0.00271,-0.01822 -0.00466,-0.03006 l -0.013595,-0.06797 C 5.7875368,31.377163 5.6861035,30.744928 5.626358,30.114714 5.612315,29.968691 5.607631,29.812866 5.604514,29.665062 c 0,-0.0042 0,-0.0063 -0.00178,-0.01047 L 5.570183,29.083224 C 5.548339,28.7602 5.524477,28.394373 5.524477,28.021634 c 0,-1.535319 0.1529295,-3.060828 0.4558908,-4.53261 0.1424528,-0.688853 0.3165599,-1.368119 0.5198724,-2.018628 0.00775,-0.02275 0.012264,-0.04012 0.016495,-0.06354 0.0022,-0.01226 0.00513,-0.03522 0.010483,-0.05105 0,0 0,-0.0014 4.461e-4,-0.0022 C 9.4678851,11.885472 18.098164,5.5237281 28.002035,5.5237281 c 1.361882,0 2.758762,0.1576111 4.39618,0.4971324 l 0.198847,0.042132 c 0.513632,0.1074524 1.085448,0.2552546 1.745538,0.4485352 0.350675,0.1023302 0.702011,0.228949 1.011876,0.3399674 l 0.292714,0.1045504 c 0.267514,0.092737 0.549962,0.1906048 0.804331,0.2964957 0.0042,9.321e-4 0.0076,0.00398 0.01338,0.00513 0.03659,0.014264 0.06801,0.029198 0.105886,0.045704 l 0.01423,0.00733 c 0.124174,0.057517 0.269074,0.053946 0.39102,-0.011813 L 40.2647,5.5580372 c 0.143791,-0.075802 0.233854,-0.2260512 0.235192,-0.3905733 0,-0.1631837 -0.0914,-0.3121013 -0.235192,-0.3883436 -3.766623,-2.0007942 -8.008526,-3.0570352 -12.262465,-3.0570352 -14.49088,0 -26.2789566,11.7869629 -26.2789566,26.2789529 0,5.870847 1.9278962,11.445878 5.575917,16.120935 0.3475477,0.444971 0.7285341,0.88815 1.1237887,1.329779 l -0.025187,0.02472 c -0.03433,0.03435 -0.064429,0.07174 -0.089176,0.112353 l -0.9706349,0.971304 c -1.3239794,1.314845 -1.0881203,2.56191 -0.8295216,3.189013 0.3948084,0.952579 1.3977688,1.618474 2.4375129,1.618474 0.5185347,0 1.0301584,-0.143353 1.6102225,-0.450542 l 2.534932,-1.341153 c 0.530796,0.369179 1.062038,0.720961 1.587929,1.032832 4.060664,2.400062 8.66684,3.669204 13.323174,3.669204 14.486859,0 26.274486,-11.787408 26.274486,-26.276726 -8.47e-4,-5.601996 -1.766936,-10.961893 -5.113336,-15.499851 l 0,0 z M 10.300049,47.739889 23.737585,34.30548 c 0.397931,-0.396816 0.591652,-0.967524 0.518089,-1.527517 -0.07488,-0.557323 -0.410635,-1.056239 -0.896181,-1.334901 l -9.904765,-5.69831 c -0.158949,-0.09141 -0.21156,-0.191497 -0.210668,-0.222039 0,-0.02608 0.05216,-0.124171 0.216019,-0.210668 L 45.70909,8.2583708 32.297192,21.670266 c -0.397481,0.394808 -0.591652,0.963501 -0.519427,1.522164 0.07225,0.555986 0.404841,1.055795 0.890829,1.337578 l 9.887819,5.721046 c 0.156274,0.09007 0.20242,0.187034 0.201531,0.216683 -4.5e-4,0.04325 -0.06709,0.140231 -0.209782,0.217133 l -32.246776,17.055019 -0.0014,0 z"></path>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">OpenLiteSpeed</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">OpenLiteSpeed</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                <span>
+                    <i class="application__hover-icon">
+                        <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                            <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                        </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/openvpn">
+            <a class="application" href="/soon/openvpn">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--openvpn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -272,18 +328,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">OpenVPN</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">OpenVPN</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['other']">
-            <a class="application" href="https://www.vultr.com/apps/owncloud">
+            <a class="application" href="/soon/owncloud">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--owncloud" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 56" width="62" height="56">
                         <g>
@@ -293,18 +354,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">ownCloud</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">ownCloud</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/plesk">
+            <a class="application" href="/soon/plesk">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--plesk" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 56" width="74" height="56">
                         <g>
@@ -317,36 +383,46 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Plesk</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Plesk</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/apps/prestashop">
+            <a class="application" href="/soon/prestashop">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--prestashop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <ellipse class="app-icon_shape" cx="30.1" cy="28.8" rx="4.4" ry="4.5"></ellipse>
                         <path class="app-icon_shape" d="M56,42.5c-0.7-1.8-1.6-3.5-2.5-5.2c0-0.1,0.1-0.2,0.1-0.2c1.3-3.7,1.7-7.5,1.4-11.3c0-0.1,0-0.1,0-0.2c0-0.2,0-0.3-0.1-0.5c-0.1-0.7-0.2-1.5-0.3-2.2c0-0.2-0.1-0.4-0.1-0.7c0-0.1-0.1-0.3-0.1-0.4c-0.1-0.5-0.2-0.9-0.4-1.3c-0.1-0.5-0.3-0.9-0.4-1.4c-0.5-1.3-1-2.6-1.7-3.8C48.6,9,43,4.6,36.7,2.4c-5.2-1.8-10.9-2-16.2-0.4c0,0-0.1,0-0.1,0c-0.9,0.3-1.8,0.6-2.6,0.9c-6.2,2.5-11.1,7.1-14,13.1c-1.4,2.9-2.3,6-2.6,9.2c0,0.1,0,0.1,0,0.2c0,0,0,0.1,0,0.1c-0.4,4.1,0.2,8.3,1.7,12.2c0,0.1,0.1,0.2,0.1,0.2c0,0,0,0,0,0c0.4,0.9,0.8,1.8,1.3,2.7c4.8,9.1,14.2,14.3,23.9,14.3c3.8,0,7.6-0.8,11.2-2.4c2.1-0.3,4.4-1,6.5-2c2.6-1.2,4.8-3,6.4-5.3c1-0.3,2-0.6,2.9-0.9c0.4-0.1,0.7-0.4,0.9-0.8C56.2,43.3,56.2,42.8,56,42.5z M48.6,30.3c0.1,0,0.1,0,0.2,0c1.3,0,2.2-1.3,2.2-3.5c0-2.2-0.8-3.5-2.2-3.5s-2.2,1.3-2.2,3.5c0,0.5,0.1,1,0.1,1.4c-1.9-2-4-3.8-6.3-5.4c1.4-3.3,4.1-5.3,5.9-5.3c2.1,0,4.3,3.2,5.7,8.4c0.2,2.7,0,5.4-0.6,8C50.5,32.7,49.6,31.4,48.6,30.3z M6.9,39.4c-0.4-0.7-0.7-1.4-1-2.2c0-5.8,1.5-8.6,4.3-11.8c3.6-4.2,8.5-6.7,13.6-7c4.9-0.3,9.8,1.4,13.8,4.8c0,0,0,0.1,0,0.1c-0.8,6.9-3.3,13.5-7.2,19.2c-0.7-0.2-1.6-0.5-2.3-0.8c-1.6-0.6-5.9-2.8-5.9-2.8s2.5,3.2,5.1,5c0.6,0.4,1.4,0.8,2.2,1.2c-0.2,0.6-0.3,1.3-0.3,2.3c0,1.7,0.9,3.2,2.4,4.2c0.2,0.1,0.3,0.2,0.5,0.3C22,53.4,11.8,48.7,6.9,39.4z M47,46.5c-0.8,0.6-1.6,1.1-2.5,1.5c-4.8,2.3-9.5,2.3-11.5,1c-0.9-0.6-1-1.2-1-1.6c0-0.6,0.1-1,0.1-1.3c2.7,0.5,5.4,0.8,8.2,0.8c0.1,0,0.1,0,0.2,0c0.1,0,0.2,0,0.3,0c0,0,0,0,0.1,0c1.9,0,3.8-0.1,5.7-0.4C46.6,46.5,46.8,46.5,47,46.5z M45.1,43.7c-1.6,0.1-3.1,0.2-4.7,0.3c-0.2,0-0.3,0-0.5,0c-0.5,0-0.9,0-1.4,0c-0.4,0-0.8,0-1.3-0.1c-0.1,0-0.1,0-0.2,0c-1.2-0.1-2.4-0.3-3.6-0.5c3.4-5.1,5.6-10.9,6.7-17c4.1,3.2,7.6,7.1,10.3,11.6c0.1,0.1,0.1,0.3,0.2,0.4c0.7,1.3,1.4,2.6,2,3.9C50.1,42.9,47.6,43.4,45.1,43.7z"></path>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">PrestaShop</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">PrestaShop</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['server']">
-            <a class="application" href="https://www.vultr.com/apps/webmin">
+            <a class="application" href="/soon/webmin">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--webmin" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -362,18 +438,23 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">Webmin</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">Webmin</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>
         <div class="col-lg-2 col-md-3 col-4" data-groups="['cms']">
-            <a class="application" href="https://www.vultr.com/features/one-click-apps/#wordpress">
+            <a class="application" href="/soon/wordpress">
                 <div class="application__icon">
                     <svg class="app-icon app-icon--wordpress" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
                         <g>
@@ -381,13 +462,18 @@
                         </g>
                     </svg>
                 </div>
-                <div class="application__title"><span class="application__title-text">WordPress</span><span class="application__title-hovertext">Learn more</span></div>
+                <div class="application__title">
+                    <span class="application__title-text">WordPress</span>
+                    <span class="application__title-hovertext">Learn more</span>
+                </div>
                 <span class="application__hover">
-		<span><i class="application__hover-icon">
-			<svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
-	<path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
-</svg>
-		</i></span>
+                    <span>
+                        <i class="application__hover-icon">
+                            <svg class="icon-ui icon-ui--18  icon-ui--primary" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+                                <path class="fill" d="M14.8,8.7l-2.5-2.5C12.2,6.1,12.1,6,12,6h-0.5C11.2,6,11,6.2,11,6.5V8H3.5C3.2,8,3,8.2,3,8.5v1C3,9.8,3.2,10,3.5,10H11v1.5c0,0.3,0.2,0.5,0.5,0.5H12c0.1,0,0.3-0.1,0.3-0.2l2.5-2.5C15,9.2,15,8.9,14.8,8.7L14.8,8.7z"></path>
+                            </svg>
+                        </i>
+                    </span>
                 </span>
             </a>
         </div>

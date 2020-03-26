@@ -4,7 +4,15 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover">
-	<title>@yield('title')</title>
+	@hasSection('full_title')
+		<title>@yield('full_title')</title>
+	@else
+		@hasSection('title')
+			<title>@yield('title') - ToolzillaBox</title>
+		@else
+			<title>ToolzillaBox</title>
+		@endif
+	@endif
     <meta name="keywords" content="@yield('keywords')">
     <meta name="description" content="@yield('description')">
 
@@ -37,11 +45,18 @@
 	<div class="menu__overlay"></div>
 
 	<div class="site">
+
 		@include('layouts.nav')
 
 		@yield('content')
 		
-		@include('layouts.footer')
+		@isset($no_footer)
+			@if (!$no_footer)
+				@include('layouts.footer')
+			@endif
+		@else
+			@include('layouts.footer')
+		@endisset
 
 	</div>
 
@@ -58,6 +73,8 @@
 			});
 		});
 	</script>
-	@yield('script')
+	<script>
+		@yield('script')
+	</script>
 </body>
 </html>

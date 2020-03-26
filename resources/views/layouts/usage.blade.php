@@ -21,8 +21,8 @@
             {{-- {{ dd($questions) }} --}}
             @if ($questions)
                 @foreach($questions as $key => $question)
-                <div class="list-group__item collapsed">
-                    <a data-toggle="lu-collapse" data-target="#usage-{{ $key }}" class="" aria-expanded="true">
+                <div class="list-group__item collapsed" data-toggle="lu-collapse" data-target="#usage-{{ $key }}" aria-expanded="true">
+                    <a>
                         <div class="list-group__top top">
                             <h3 class="top__title h5">{{ $question['q'] }}</h3>
                         </div>

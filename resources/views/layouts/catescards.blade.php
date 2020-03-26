@@ -1,13 +1,11 @@
 <section class="section section--homepage-packages p-b-0x" >
     <div class="container ">
         <h2 class="section__title ">Our products</h2>
-    
-    
         <div class="section__content">
             <div class="section__packages content-slider " data-content-slider>
                 <div class="row features content-slider__wrapper">
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/products/cloud-compute/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/cloud-compute/">
                             <div class="feature__icon">
                                 <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve" data-animation data-animation-options="type: packageIcon; delay: 0;">
                                     <g class="animation-element" data-animation-shadow>
@@ -184,7 +182,7 @@
                         </a>
                     </div>
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/products/bare-metal/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/bare-metal/">
                             <div class="feature__icon">
                                 <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 160;">
                                     <g class="animation-element" data-animation-shadow>
@@ -399,7 +397,7 @@
                         </a>
                     </div>
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/products/block-storage/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/block-storage/">
                             <div class="feature__icon">
                                 <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 320;">
                                     <g class="animation-element" data-animation-shadow>
@@ -544,7 +542,7 @@
                         </a>
                     </div>
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/products/dedicated-cloud/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools">
                             <div class="feature__icon">
                                 <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 480;">
                                     <g class="animation-element" data-animation-shadow>

@@ -2,7 +2,7 @@
 	<div class="container ">
 		<h2 class="section__title ">Get best offers and latest news</h2>
 		<div class="section__actions text-center">
-			<form method="post" action="https://www.vultr.com/register/" class="is-hidden-md-down rail show-password-danger password-is-strong" data-ps-strength="">
+			<form method="post" action="/mail" class="is-hidden-md-down rail show-password-danger password-is-strong" data-ps-strength="">
 				<input type="hidden" name="action" value="djJ8cEpzbTNSYXVxaUVBRnJVaEEwNHItRWJQcXdTMUZudk98_O_deGHfyf-mjai9NpEsi-2jKYsTXj9x0yLHlgxtxSpMYjbBsRg">
 				<input style="display: none;" name="email" value="" autocomplete="off">
 				<div class="input-group input-group--xlg" style="max-width: 570px;width: 570px;">
@@ -16,13 +16,6 @@
 					<span class="btn-hover-effect"></span><span class="btn-hover-effect"></span><span class="btn-hover-effect"></span><span class="btn-hover-effect"></span></button>
 				</div>
 			</form>
-			<a class="btn btn--primary btn--lg is-hidden-lg-up" href="https://www.vultr.com/register/">
-				<span class="btn__text">Create account</span>
-				<span class="btn-hover-effect"></span>
-				<span class="btn-hover-effect"></span>
-				<span class="btn-hover-effect"></span>
-				<span class="btn-hover-effect"></span>
-			</a>
 		</div>
 	</div>
 </section>

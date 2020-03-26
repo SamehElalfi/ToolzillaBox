@@ -5,7 +5,7 @@
 			We can't still exist without your help. Donate for Toolzillabox on Patrion. This will make us happy. Thank You! ❤️
 		</p>
 		<div class="section__actions text-center  ">
-			<a class="btn btn--primary btn--outline" href="/resources/benchmarks/">Donate on Patrion</a>
+			<a class="btn btn--primary btn--outline" href="/soon">Donate on Patrion</a>
 		</div>
 	
 		<div class="section__illustration illustration illustration--wide illustration--sm is-animated" data-animation data-animation-options="type:accelerateIllustration;">

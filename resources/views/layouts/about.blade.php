@@ -31,7 +31,7 @@
 								<div class="tile__value h2 font-weight-light">20k+</div>
 								<h3 class="tile__title h6">Unique Customers</h3>
 								<p class="tile__info p-3">
-									Our customers come from 150+ countries around the globe and countless cities. Vultr's global footprint spans far and wide!
+									Our customers come from 150+ countries around the globe and countless cities. ToolzillaBox's global footprint spans far and wide!
 								</p>
 							</div>
 						</div>

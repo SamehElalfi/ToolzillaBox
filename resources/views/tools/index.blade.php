@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tools List - ToolzillaBox')
+@section('title', 'Tools List')
 
 @section('content')
     @include('layouts.header', [

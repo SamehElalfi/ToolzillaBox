@@ -409,3 +409,13 @@ textarea.preview_text
 		padding-top: 100px !important;
 	}
 }
+@media (max-width: 375px) {
+	.br-sm-0 {
+		border-radius: none;
+	}
+}
+@media (max-width: 751px) {
+	.br-md-0 {
+		border-radius: none;
+	}
+}
