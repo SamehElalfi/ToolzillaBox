@@ -237,7 +237,7 @@
 			</div>
 		</div>
 	</div>
-	<script>
+	{{-- <script>
 		document.getElementById("donate-btn").href="#donate"; 
-	</script>
+	</script> --}}
 </section>

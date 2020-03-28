@@ -28,9 +28,7 @@
 					</ul>
 				</div>
 				<div class="footer__column col-md-3">
-					<h3 class="footer__title h6" data-toggle="footer-column">
-						Features
-					</h3>
+					<h3 class="footer__title h6" data-toggle="footer-column">Most Using</h3>
 					<ul class="footer__nav nav">
 						<li class="nav__item">
 							<a class="nav__link" href="/soon/datacenter-locations/">Data Center Locations</a>
@@ -54,19 +52,15 @@
 						Subscribe to our newsletter
 					</h3>
 					<div class="footer__nav nav">
-						<form method="post" action="/mail/" class="rail show-password-danger password-is-strong" data-ps-strength="">
+						<form method="post" action="/mail" class="rail">
+							@csrf
+							<input name="previous_url" type="hidden" value="{{ url()->previous() }}">
+
 							<div class="input-group input-group--xlg" style="border-radius: 50px;width: 500px;">
 								<input name="email" type="email" required="" class="form-control form-control--xlg" placeholder="Email Address" style="border-radius: 50px;">
 							</div>
 							<div class="rail__toolbar" style="position:absolute; right:10px; border-radius:50px;">
-								<button class="btn btn--primary btn--lg" type="submit" style="border-radius: 50px;">
-									<span class="btn__text">Subscribe</span>
-									<span class="btn__preloader preloader"></span>
-									<span class="btn-hover-effect"></span>
-									<span class="btn-hover-effect"></span>
-									<span class="btn-hover-effect" style="left: 143.406px; top: 48px;"></span>
-									<span class="btn-hover-effect"></span>
-								</button>
+								<input class="btn btn--primary btn--lg" type="submit" style="border-radius: 50px;" value="Subscribe">
 							</div>
 						</form>
 					</div>

@@ -1,6 +1,6 @@
 <div data-site-navbar="" class="site-navbar navbar navbar--h navbar--main navbar--main ">
 	<div class="container">
-		<a class="navbar__brand brand" href="http://www.toolzillabox.com/" data-logo="">
+		<a class="navbar__brand brand" href="/" data-logo="">
 			<div class="brand__logo">
 				<svg class="svg-logo" xmlns="http://www.w3.org/2000/svg" width="152" height="36" viewBox="0 0 152 36">
 					<g transform="translate(-10 -10)">
@@ -26,19 +26,19 @@
 		<nav class="navbar__menu" data-main-menu="">
 			<ul class="navbar__nav nav nav--h nav--main-menu sf-js-enabled sf-arrows" data-nav="" data-options="openOn: hover;" style="touch-action: auto;">
 				<li class="nav__item">
-					{{--<a class="nav__link" href="tools" style="background-color: #db0000fa; box-shadow: 0 0 17px -7px #db0000fa; border-radius: 5px;">--}}
-					<a class="nav__link" href="tools">
+					{{--<a class="nav__link" href="/tools" style="background-color: #db0000fa; box-shadow: 0 0 17px -7px #db0000fa; border-radius: 5px;">--}}
+					<a class="nav__link" href="/tools">
 						<span class="nav__link-text">Our Tools</span>
 					</a>
 				</li>
 				<li class="nav__item">
-					<a class="nav__link" href="blog">
+					<a class="nav__link" href="/blog">
 						<span class="nav__link-text">Blog</span>
 					</a>
 				</li>
 				<li class="nav__item">
-					{{--<a class="nav__link"  id="donate-btn" href="donate" style="background-color: #FFC107; box-shadow: 0 0 17px -7px #FFC107; border-radius: 5px;">--}}
-					<a class="nav__link"  id="donate-btn" href="donate">
+					{{--<a class="nav__link"  id="donate-btn" href="/donate" style="background-color: #FFC107; box-shadow: 0 0 17px -7px #FFC107; border-radius: 5px;">--}}
+					<a class="nav__link"  id="donate-btn" href="/donate">
 						<span class="nav__link-text">Donate{{--<span style="margin: 0 0 0 10px;">❤️</span></span>--}}
 					</a>
 				</li>
@@ -48,7 +48,7 @@
 					</a>
 				</li>
 				<li class="nav__item">
-					<a class="nav__link" href="contact">
+					<a class="nav__link" href="/contact">
 						<span class="nav__link-text">Contact</span>
 					</a>
 				</li>

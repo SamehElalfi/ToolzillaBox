@@ -1,6 +1,6 @@
 <section class="section section--resources">
 	<div class="container ">
-		<h2 class="section__title ">Blog &amp; News</h2>
+		<h2 class="section__title ">Blog &amp; FAQ</h2>
 		<p class="section__desc">Learn how to make your busniess looks professional with our blog posts</p>
 		<div class="section__content">
 			<div class="row">

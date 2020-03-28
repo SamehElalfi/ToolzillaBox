@@ -413,9 +413,44 @@ textarea.preview_text
 	.br-sm-0 {
 		border-radius: none;
 	}
+	.mb-sm-2 {
+		margin-bottom: 10px;
+	}
 }
 @media (max-width: 751px) {
 	.br-md-0 {
 		border-radius: none;
 	}
+	.mb-md-2 {
+		margin-bottom: 10px;
+	}
+}
+.small-header {
+	max-height: 400px;
+}
+.small-header>header{
+	margin-bottom: 0 !important;
+	max-height: 300px;
+}
+.small-header .banner__background {
+	background: transparent;
+}
+.small-header .banner__background>svg {
+	top:0;
+	background: linear-gradient(90deg,#021048,#1e38a3);
+}
+.pt-2 {
+	padding-top: 20px;
+}
+.pb-2 {
+	padding-bottom: 20px;
+}
+.scroll-up .site-navbar .nav>.nav__item>.nav__link {
+    color: #ffffff;
+}
+.scroll-up .site-navbar {
+	background: linear-gradient(90deg,#021048,#1e38a3);
+}
+.scroll-up .svg-logo__text {
+    fill: #ffffff;
 }
