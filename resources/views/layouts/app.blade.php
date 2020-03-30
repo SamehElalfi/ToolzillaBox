@@ -28,7 +28,8 @@
     <meta name="msapplication-config" content="browserconfig.xml"/>
     <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=1" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- Styles -->
 	<link href="/dist/css/style.css?v=518" rel="stylesheet">

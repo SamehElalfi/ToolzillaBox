@@ -8,15 +8,14 @@ Our goal is to provide online free tools to help content creators, brands, SEOs,
 
 
 ## Log
-- finished /contact page and database table
-- finished email list form and database table
-- fixed links in navbar
-- removed scripts from about section and donate section
-- changed "Features" to "Most Using" in footer
-- finished /about page
-- set limit of visits for all routes
-- finished /donate page
-- organized all routes
+- fixed the navbar colors in mobiles and tablets
+- change the border radius in the mail section
+- finished the json formatter view
+- changed the json formatter view
+- changed the routes limit from (3 per 1 sec) to (5 per 1 sec)
+- created dark mode for json formatter
+- finished password generator tool (view, algoritms)
+
 
 ## To-Do
 - ~~ Fix the home page on the mobile/tablet versions ~~

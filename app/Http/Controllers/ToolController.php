@@ -14,4 +14,8 @@ class ToolController extends Controller
     public function jsonFormatter() {
         return view('tools.json_formatter');
     }
+
+    public function passwordGenerator() {
+        return view('tools.password_generator');
+    }
 }

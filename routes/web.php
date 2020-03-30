@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 
-Route::middleware('throttle:3|1,1')->group(function () {
+Route::middleware('throttle:5|1,1')->group(function () {
     Route::get('/', function () {
         return view('index');
     });
@@ -52,6 +52,9 @@ Route::middleware('throttle:3|1,1')->group(function () {
     Route::prefix('/tools')->group(function () {
         // Json Formatter tool
         Route::get('/jsonformatter', 'ToolController@jsonFormatter')->name('jsonFormatter');
+
+        // Password Generator tool
+        Route::get('/passwordgenerator', 'ToolController@passwordGenerator')->name('passwordGenerator');
 
         // Display all categories and tools
         Route::get('/', 'ToolController@index')->name('tools');
