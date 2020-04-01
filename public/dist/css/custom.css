@@ -705,3 +705,22 @@ textarea.preview_text
 .small-text .btn__text {
 	font-size: 0.8em;
 }
+
+.bg-hover-primary:hover, .bg-hover-primary:active {
+	background: rgb(0,116,255) !important;
+	background: linear-gradient(90deg, rgba(0,116,255,1) 0%, rgba(5,0,84,0.5158438375350141) 100%) !important;
+}
+.bg-transparent {
+	background: transparent !important;
+}
+.bg-hover-transparent:hover {
+	background: transparent !important;
+}
+
+.menubar a:not([href]).spliter {
+	background-color: transparent !important;
+	border-top: 1px solid #dedede;
+}
+.menubar a:not([href]).spliter:hover {
+    background-color: transparent !important;
+}

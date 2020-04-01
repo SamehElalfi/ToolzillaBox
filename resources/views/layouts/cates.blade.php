@@ -12,7 +12,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">cPanel</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -39,7 +39,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Docker</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Drupal</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">GitLab</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Joomla</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">LAMP</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -162,7 +162,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">LEMP</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -187,7 +187,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Magento</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -229,7 +229,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">MediaWiki</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -253,7 +253,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Minecraft</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -282,7 +282,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Nextcloud</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -305,7 +305,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">OpenLiteSpeed</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                 <span>
@@ -330,7 +330,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">OpenVPN</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -356,7 +356,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">ownCloud</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -385,7 +385,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Plesk</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -408,7 +408,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">PrestaShop</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -440,7 +440,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">Webmin</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>
@@ -464,7 +464,7 @@
                 </div>
                 <div class="application__title">
                     <span class="application__title-text">WordPress</span>
-                    <span class="application__title-hovertext">Learn more</span>
+                    <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
                     <span>

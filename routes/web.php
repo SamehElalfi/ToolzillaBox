@@ -29,8 +29,6 @@ Route::middleware('throttle:5|1,1')->group(function () {
      * 
      */
     Route::prefix('/legal')->group(function () {
-        Route::get('/tos', 'LegalController@tos')->name('tos');
-        Route::get('/use_policy', 'LegalController@use_policy')->name('use_policy');
         Route::get('/privacy', 'LegalController@privacy')->name('privacy');
         Route::get('/cookie_policy', 'LegalController@cookie_policy')->name('cookie_policy');
     });

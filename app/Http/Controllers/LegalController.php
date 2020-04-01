@@ -34,16 +34,6 @@ class LegalController extends Controller
         return view('contact.thanks');
     }
     
-    public function tos()
-    {
-        return view('legal.tos');
-    }
-    
-    public function use_policy()
-    {
-        return view('legal.use_policy');
-    }
-    
     public function privacy()
     {
         return view('legal.privacy');

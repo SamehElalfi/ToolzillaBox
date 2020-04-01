@@ -4,14 +4,14 @@
 			<div class="row">
 				<div class="footer__column col-md-3">
 					<h3 class="footer__title h6" data-toggle="footer-column">
-						Products
+						Categories
 					</h3>
 					<ul class="footer__nav nav">
 						<li class="nav__item">
-							<a class="nav__link" href="/soon/bare-metal/">Development Tools</a>
+							<a class="nav__link" href="/tools#developmentTools">Development Tools</a>
 						</li>
 						<li class="nav__item">
-							<a class="nav__link" href="/soon/object-storage/">Desiging Tools</a>
+							<a class="nav__link" href="/tools#securityTools">Security Tools</a>
 						</li>
 						<li class="nav__item">
 							<a class="nav__link" href="/soon/block-storage/">Photos Tools</a>
@@ -23,7 +23,7 @@
 							<a class="nav__link" href="/soon/ddos-protection/">Colors Tools</a>
 						</li>
 						<li class="nav__item">
-							<a class="nav__link" href="/soon/direct-connect/">All Tools</a>
+							<a class="nav__link" href="/tools/">All Tools</a>
 						</li>
 					</ul>
 				</div>
@@ -31,19 +31,10 @@
 					<h3 class="footer__title h6" data-toggle="footer-column">Most Using</h3>
 					<ul class="footer__nav nav">
 						<li class="nav__item">
-							<a class="nav__link" href="/soon/datacenter-locations/">Data Center Locations</a>
+							<a class="nav__link" href="/tools/jsonformatter/">JSON Formatter</a>
 						</li>
 						<li class="nav__item">
-							<a class="nav__link" href="/soon/control-panel/">Control Panel</a>
-						</li>
-						<li class="nav__item">
-							<a class="nav__link" href="/soon/operating-systems/">Operating Systems</a>
-						</li>
-						<li class="nav__item">
-							<a class="nav__link" href="/soon/one-click-apps/">One-click Apps</a>
-						</li>
-						<li class="nav__item">
-							<a class="nav__link" href="/soon/bgp/">Bring your IP space</a>
+							<a class="nav__link" href="/tools/passwordgenerator/">Password Generator</a>
 						</li>
 					</ul>
 				</div>
@@ -71,7 +62,7 @@
 	<div class="footer__bottom">
 		<div class="container">
 			<div class="footer__brand brand brand--footer">
-				<a href="/" class="brand__logo" data-logo="">
+				{{-- <a href="/" class="brand__logo" data-logo="">
 					<svg class="svg-logo" xmlns="http://www.w3.org/2000/svg" width="152" height="36" viewBox="0 0 152 36">
 						<g transform="translate(-10 -10)">
 							<path class="svg-logo__text" d="M148,19.7c2.2-0.9,4-3.2,4-5.7c0-3.3-2.7-6-6-6h-9c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h1c0.6,0,1-0.4,1-1v-7h6l4.3,7.5c0.2,0.3,0.5,0.5,0.9,0.5h0.7c0.6,0,1.1-0.5,1.1-1.1c0-0.2,0-0.4-0.1-0.5L148,19.7z M139,17v-6h6.8c1.7,0,3.2,1.3,3.2,3c0,1.8-1.2,3-3,3H139z M130,8h-15c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1h6v16c0,0.6,0.4,1,1,1h1c0.6,0,1-0.4,1-1V11h6c0.6,0,1-0.4,1-1V9C131,8.4,130.6,8,130,8z M114,25h-9V9c0-0.6-0.4-1-1-1c-0.1,0-0.9,0-1,0c-0.6,0-1,0.5-1,1.1v17.8c0,0.6,0.5,1.1,1,1.1H114c0.6,0,1-0.5,1-1.1c0-0.1,0-0.8,0-0.9C115,25.4,114.6,25,114,25z M96,8h-1c-0.6,0-1,0.4-1,1v11c0,2.9-2.1,5-5,5s-5-2.1-5-5V9c0-0.6-0.4-1-1-1h-1c-0.6,0-1,0.4-1,1l0,10.9c0,4.5,3.6,8.1,8,8.1c4.4,0,8-3.6,8-8.1L97,9C97,8.4,96.5,8,96,8z M76.9,8h-0.7c-0.4,0-0.8,0.3-1,0.7L69,24.1L62.8,8.7c-0.2-0.4-0.6-0.7-1-0.7h-0.7C60.5,8,60,8.5,60,9.1c0,0.1,0,0.3,0.1,0.4l7.2,17.9c0.2,0.4,0.6,0.7,1,0.7h1.4c0.4,0,0.8-0.3,1-0.7l7.2-17.9C78,9.3,78,9.2,78,9.1C78,8.5,77.5,8,76.9,8z" transform="translate(9 9)"></path>
@@ -83,7 +74,7 @@
 							</g>
 						</g>
 					</svg>
-				</a>
+				</a> --}}
 				<div class="brand__content">
 					<div class="brand__title">
 						© ToolzillaBox 2020
@@ -92,12 +83,6 @@
 				</div>
 			</div>
 			<div class="footer__bottom-nav nav nav--h">
-				<li class="nav__item">
-					<a class="nav__link" href="/legal/tos/">Terms of Service</a>
-				</li>
-				<li class="nav__item">
-					<a class="nav__link" href="/legal/use_policy/">AUP/DMCA</a>
-				</li>
 				<li class="nav__item">
 					<a class="nav__link" href="/legal/privacy/">Privacy Policy</a>
 				</li>

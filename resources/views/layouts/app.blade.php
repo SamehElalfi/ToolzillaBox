@@ -39,7 +39,7 @@
 		<link href="/dist/css/no-script.css?v=518" rel="stylesheet">
 	</noscript>
 
-	@section('style')
+	@yield('style')
 </head>
 <body class="">
 

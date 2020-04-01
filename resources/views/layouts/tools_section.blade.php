@@ -17,7 +17,7 @@
         </div>
         <h2 class="section__title ">{{ $section_title ?? 'Section'}}</h2>
         <div class="section__content">
-            <div class="row row--lg features">
+            <div class="row row--lg features justify-content-center">
                 @if($tools)
                 @foreach($tools as $tool)
                     <div class="col-lg-4">

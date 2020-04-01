@@ -17,75 +17,27 @@
             </div>
         </div>
     </section>
-    
+
     @include('layouts.tools_section', [
-        'section_title' => 'Section Tools',
+        'section_title' => 'Development Tools',
         'tools' => [
             [
-                'title'=>'Tool',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
+                'title'=>'JSON Formatter',
+                'link'=>'http://toolzillabox.com/tools/jsonformatter',
                 'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here'
-            ],
-            [
-                'title'=>'Tool 2',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here2'
-            ],
-            [
-                'title'=>'Tool 3',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here3'
+                'description'=>'Formate and Validate you JSON Code'
             ]
         ]
     ])
 
     @include('layouts.tools_section', [
-        'section_title' => 'Section Tools',
+        'section_title' => 'Security Tools',
         'tools' => [
             [
-                'title'=>'Tool',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
+                'title'=>'Password Generator',
+                'link'=>'https://toolzillabox.com/tools/passwordgenerator',
                 'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here'
-            ],
-            [
-                'title'=>'Tool 2',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here2'
-            ],
-            [
-                'title'=>'Tool 3',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here3'
-            ]
-        ]
-    ])
-
-    @include('layouts.tools_section', [
-        'section_title' => 'Section Tools',
-        'tools' => [
-            [
-                'title'=>'Tool',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here'
-            ],
-            [
-                'title'=>'Tool 2',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here2'
-            ],
-            [
-                'title'=>'Tool 3',
-                'link'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
-                'description'=>'some cool text are here3'
+                'description'=>'Generate Secure, Strong and long Passwords'
             ]
         ]
     ])

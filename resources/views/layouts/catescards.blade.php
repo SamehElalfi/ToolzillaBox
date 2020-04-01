@@ -5,7 +5,7 @@
             <div class="section__packages content-slider " data-content-slider>
                 <div class="row features content-slider__wrapper">
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/cloud-compute/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools#developmentTools">
                             <div class="feature__icon">
                                 <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve" data-animation data-animation-options="type: packageIcon; delay: 0;">
                                     <g class="animation-element" data-animation-shadow>
@@ -182,81 +182,81 @@
                         </a>
                     </div>
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/bare-metal/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools#securityTools">
                             <div class="feature__icon">
-                                <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 160;">
-                                    <g class="animation-element" data-animation-shadow>
-                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"/>
+                                <svg class="svg-product" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="" xml:space="preserve" data-animation="" data-animation-options="type: packageIcon; delay: 160;">
+                                    <g class="animation-element" data-animation-shadow="" style="">
+                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"></path>
                                     </g>
-                                    <g class="svg-product__bottom animation-element" data-animation-bottom>
-                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"/>
+                                    <g class="svg-product__bottom animation-element" data-animation-bottom="" style="">
+                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"></path>
                                         <path class="svg-product__bottom-st2" d="M229.2,110.1c-1.1,0.6-102.3,59.1-103.4,59.8c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-59.1-103.4-59.8c-1.4-0.5-2.1-2-1.7-3.3c0.3-0.8,0.9-1.4,1.7-1.7c1.1-0.6,102.3-59.1,103.4-59.8c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.1,103.4,59.8c1.4,0.5,2.1,2,1.6,3.3C230.6,109.1,230,109.8,229.2,110.1z M222,104.9c-1-0.6-96-55.9-97.1-56.5c-2.5-1.3-5.6-1.3-8.1,0c-1,0.6-96,55.9-97.1,56.5c-1.3,0.5-2,1.9-1.5,3.2c0.3,0.7,0.8,1.3,1.5,1.5c1,0.6,96.1,55.9,97.1,56.5c2.5,1.3,5.6,1.3,8.1,0c1-0.6,96.1-55.9,97.1-56.5c1.3-0.4,2-1.9,1.5-3.2
-                                        C223.3,105.8,222.7,105.3,222,104.9z"/>
-                                        <path  class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"/>
+                                        C223.3,105.8,222.7,105.3,222,104.9z"></path>
+                                        <path class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"></path>
                                         <g>
-                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"/>
+                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"></path>
+                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"></path>
+                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"></path>
+                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"></path>
                                         </g>
                                         <g>
-                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"/>
-                                            <path class="svg-product__bottom-st7" d="M214,130v7"/>
-                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"/>
-                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"/>
+                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"></path>
+                                            <path class="svg-product__bottom-st7" d="M214,130v7"></path>
+                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"></path>
+                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"></path>
                                         </g>
-                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"/>
+                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"></path>
                                     </g>
-                                    <g class="svg-illustration-top animation-element" data-animation-top>
+                                    <g class="svg-illustration-top animation-element" data-animation-top="" style="">
                                         <g id="board">
-                                            <path class="svg-product__bare-metal-st11" d="M232,64.49,13,64.1v4h0c.1,1.1,1,3.2,2,3.6,1.1.6,102.19,59.53,103.28,60.13a9.33,9.33,0,0,0,8.6,0C128,131.23,229.1,72.3,230.2,71.7s1.8-2.39,1.8-3.5Z"/>
-                                            <path class="svg-product__bare-metal-st12" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"/>
-                                            <path class="svg-product__bare-metal-st13" d="M35.5,64.4a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0C36.9,62.4,36.9,63.7,35.5,64.4Zm90,52a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm0-104a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm96,53a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0c1.4.8,1.4,2.1,0,2.8Z"/>
-                                            <path class="svg-product__bare-metal-st14" d="M123,32.1,163.7,54l14.1,8.1a1.08,1.08,0,0,1,.7,1.4,1.21,1.21,0,0,1-.7.7l-53,30.4a3.66,3.66,0,0,1-1.8.4,3.92,3.92,0,0,1-1.8-.4l-53-30.4a1.08,1.08,0,0,1-.7-1.4,1.21,1.21,0,0,1,.7-.7Z"/>
+                                            <path class="svg-product__bare-metal-st11" d="M232,64.49,13,64.1v4h0c.1,1.1,1,3.2,2,3.6,1.1.6,102.19,59.53,103.28,60.13a9.33,9.33,0,0,0,8.6,0C128,131.23,229.1,72.3,230.2,71.7s1.8-2.39,1.8-3.5Z"></path>
+                                            <path class="svg-product__bare-metal-st12" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"></path>
+                                            <path class="svg-product__bare-metal-st13" d="M35.5,64.4a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0C36.9,62.4,36.9,63.7,35.5,64.4Zm90,52a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm0-104a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm96,53a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0c1.4.8,1.4,2.1,0,2.8Z"></path>
+                                            <path class="svg-product__bare-metal-st14" d="M123,32.1,163.7,54l14.1,8.1a1.08,1.08,0,0,1,.7,1.4,1.21,1.21,0,0,1-.7.7l-53,30.4a3.66,3.66,0,0,1-1.8.4,3.92,3.92,0,0,1-1.8-.4l-53-30.4a1.08,1.08,0,0,1-.7-1.4,1.21,1.21,0,0,1,.7-.7Z"></path>
                                             <g class="svg-product__bare-metal-st15">
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M72.2,27.9l8.3,5.2v12l9.2,5.4"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M72.2,27.9l8.3,5.2v12l9.2,5.4"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M134.8,88.8l8.7,6.2v10l10.4,6.9"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M134.8,88.8l8.7,6.2v10l10.4,6.9"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M156.3,76.5l8.3,5.5V94l9.4,6.1"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M156.3,76.5l8.3,5.5V94l9.4,6.1"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M93,16.4l10.5,6.7v11l9,5"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M93,16.4l10.5,6.7v11l9,5"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M166.5,70.2l8,5.4h23l8.6,5.4"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M166.5,70.2l8,5.4h23l8.6,5.4"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M52.8,72.7,61.2,78"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M52.8,72.7,61.2,78"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M68.6,82.2,76,86.4"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M68.6,82.2,76,86.4"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M84.5,90.6l22.2,13.7"/>
+                                                    <path class="svg-product__bare-metal-st17" d="M84.5,90.6l22.2,13.7"></path>
                                                 </g>
                                                 <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st18" d="M40.4,46.4l8,5.2h22l7.7,4.8"/>
+                                                    <path class="svg-product__bare-metal-st18" d="M40.4,46.4l8,5.2h22l7.7,4.8"></path>
                                                 </g>
                                             </g>
                                             <g id="small">
-                                                <path class="svg-product__bare-metal-st19" d="M186.9,47a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2L192.4,56l-4.7,2.8a.85.85,0,0,1-.8,0L182.1,56l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"/>
-                                                <path  class="svg-product__bare-metal-st19" d="M141.8,20.7a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2l-4.8,2.8-4.7,2.8a.85.85,0,0,1-.8,0L137,29.7l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"/>
-                                                <path class="svg-product__bare-metal-st20" d="M148.9,23.4v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V23.4Z"/>
-                                                <path class="svg-product__bare-metal-st21" d="M141.7,19.4c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"/>
-                                                <path class="svg-product__bare-metal-st22" d="M194.3,49.8v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V49.8Z"/>
-                                                <path class="svg-product__bare-metal-st23" d="M187.1,45.8c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"/>
+                                                <path class="svg-product__bare-metal-st19" d="M186.9,47a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2L192.4,56l-4.7,2.8a.85.85,0,0,1-.8,0L182.1,56l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"></path>
+                                                <path class="svg-product__bare-metal-st19" d="M141.8,20.7a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2l-4.8,2.8-4.7,2.8a.85.85,0,0,1-.8,0L137,29.7l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"></path>
+                                                <path class="svg-product__bare-metal-st20" d="M148.9,23.4v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V23.4Z"></path>
+                                                <path class="svg-product__bare-metal-st21" d="M141.7,19.4c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"></path>
+                                                <path class="svg-product__bare-metal-st22" d="M194.3,49.8v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V49.8Z"></path>
+                                                <path class="svg-product__bare-metal-st23" d="M187.1,45.8c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"></path>
                                             </g>
                                         </g>
                                         <g id="cpu">
-                                            <path class="svg-product__bare-metal-st24" d="M165,54.71V63a1.22,1.22,0,0,1-.71,1L144.53,75.36,124.77,86.7a3.71,3.71,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.37,75.36,81.71,64A1.22,1.22,0,0,1,81,63v-8.3Z"/>
-                                            <path class="svg-product__bare-metal-st25" d="M121.23,30.83a3.65,3.65,0,0,1,3.54,0L144.5,42.26,164.24,53.7a1.24,1.24,0,0,1,.71,1.42,1.6,1.6,0,0,1-.71.7L144.5,67.26,124.77,78.7a3.74,3.74,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.39,67.26,81.76,55.72a1.23,1.23,0,0,1-.71-1.41,1.21,1.21,0,0,1,.71-.71L101.5,42.16Z"/>
+                                            <path class="svg-product__bare-metal-st24" d="M165,54.71V63a1.22,1.22,0,0,1-.71,1L144.53,75.36,124.77,86.7a3.71,3.71,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.37,75.36,81.71,64A1.22,1.22,0,0,1,81,63v-8.3Z"></path>
+                                            <path class="svg-product__bare-metal-st25" d="M121.23,30.83a3.65,3.65,0,0,1,3.54,0L144.5,42.26,164.24,53.7a1.24,1.24,0,0,1,.71,1.42,1.6,1.6,0,0,1-.71.7L144.5,67.26,124.77,78.7a3.74,3.74,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.39,67.26,81.76,55.72a1.23,1.23,0,0,1-.71-1.41,1.21,1.21,0,0,1,.71-.71L101.5,42.16Z"></path>
                                         </g>
                                         <clipPath id="clip-path">
-                                            <path class="svg-product__bare-metal-st1" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"/>
+                                            <path class="svg-product__bare-metal-st1" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"></path>
                                         </clipPath>
                                     </g>
                                     <defs>
@@ -328,69 +328,69 @@
                                             }
                                         </style>
                                         <linearGradient id="svg-gradient__gray-middle" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#CAD1E0"/>
-                                            <stop  offset="0.46" style="stop-color:#BEC5D8"/>
-                                            <stop  offset="0.54" style="stop-color:#D4D9E6"/>
-                                            <stop  offset="1" style="stop-color:#E4E7F0"/>
+                                            <stop offset="0" style="stop-color:#CAD1E0"></stop>
+                                            <stop offset="0.46" style="stop-color:#BEC5D8"></stop>
+                                            <stop offset="0.54" style="stop-color:#D4D9E6"></stop>
+                                            <stop offset="1" style="stop-color:#E4E7F0"></stop>
                                         </linearGradient>
                                                 <linearGradient id="svg-gradient__gray-top-dark" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#99A1BE"/>
-                                            <stop  offset="1" style="stop-color:#B3BACF"/>
+                                            <stop offset="0" style="stop-color:#99A1BE"></stop>
+                                            <stop offset="1" style="stop-color:#B3BACF"></stop>
                                         </linearGradient>
                                                 <linearGradient id="svg-gradient__gray-top-light" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#EAEDF6"/>
-                                            <stop  offset="1" style="stop-color:#F6F8FE"/>
+                                            <stop offset="0" style="stop-color:#EAEDF6"></stop>
+                                            <stop offset="1" style="stop-color:#F6F8FE"></stop>
                                         </linearGradient>
                                                 <linearGradient id="svg-gradient__gray-shadow" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"/>
-                                            <stop offset="1" stop-color="#131532"/>
+                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"></stop>
+                                            <stop offset="1" stop-color="#131532"></stop>
                                         </linearGradient>
                                         <linearGradient id="dedicated-gradient_17" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"/>
-                                            <stop offset="1" stop-color="#131532"/>
+                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"></stop>
+                                            <stop offset="1" stop-color="#131532"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient" x1="13" y1="478.1" x2="232" y2="478.1" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.48" stop-color="#d2d8e6"/>
-                                            <stop offset="0.52" stop-color="#e0e4ef"/>
+                                            <stop offset="0.48" stop-color="#d2d8e6"></stop>
+                                            <stop offset="0.52" stop-color="#e0e4ef"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient_2" x1="13.09" y1="478.07" x2="232.09" y2="478.07" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#bbc1d4" stop-opacity="0"/>
-                                            <stop offset="0.35" stop-color="#bbc1d4" stop-opacity="0.7"/>
-                                            <stop offset="1" stop-color="#bbc1d4" stop-opacity="0"/>
+                                            <stop offset="0" stop-color="#bbc1d4" stop-opacity="0"></stop>
+                                            <stop offset="0.35" stop-color="#bbc1d4" stop-opacity="0.7"></stop>
+                                            <stop offset="1" stop-color="#bbc1d4" stop-opacity="0"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient_11" x1="13" y1="454.49" x2="232" y2="454.49" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
+                                            <stop offset="0" stop-color="#373f6e"></stop>
+                                            <stop offset="1" stop-color="#5a6291"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient_3" x1="13" y1="-341.78" x2="232" y2="-341.78" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.01" stop-color="#3f4b75"/>
-                                            <stop offset="1" stop-color="#636f99"/>
+                                            <stop offset="0.01" stop-color="#3f4b75"></stop>
+                                            <stop offset="1" stop-color="#636f99"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient_4" x1="135.13" y1="-304.9" x2="148.88" y2="-304.9" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#1d53da"/>
-                                            <stop offset="1" stop-color="#3f75fc"/>
+                                            <stop offset="0" stop-color="#1d53da"></stop>
+                                            <stop offset="1" stop-color="#3f75fc"></stop>
                                         </linearGradient>
                                         <linearGradient id="bare-metal-gradient_5" x1="135.12" y1="-301.35" x2="148.88" y2="-301.35" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#0397f6"/>
-                                            <stop offset="1" stop-color="#00baff"/>
+                                            <stop offset="0" stop-color="#0397f6"></stop>
+                                            <stop offset="1" stop-color="#00baff"></stop>
                                         </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_6" x1="180.54" y1="-331.3" x2="194.28" y2="-331.3" xlink:href="#bare-metal-gradient_4"/>
-                                        <linearGradient id="bare-metal-gradient_7" x1="180.53" y1="-327.75" x2="194.28" y2="-327.75" xlink:href="#bare-metal-gradient_5"/>
-                                        <linearGradient id="bare-metal-gradient_8" x1="81" y1="-348.91" x2="165.09" y2="-348.91" xlink:href="#bare-metal-gradient_4"/>
-                                        <linearGradient id="bare-metal-gradient_9" x1="81" y1="-332.74" x2="165" y2="-332.74" xlink:href="#bare-metal-gradient_5"/>
+                                        <linearGradient id="bare-metal-gradient_6" x1="180.54" y1="-331.3" x2="194.28" y2="-331.3" xlink:href="#bare-metal-gradient_4"></linearGradient>
+                                        <linearGradient id="bare-metal-gradient_7" x1="180.53" y1="-327.75" x2="194.28" y2="-327.75" xlink:href="#bare-metal-gradient_5"></linearGradient>
+                                        <linearGradient id="bare-metal-gradient_8" x1="81" y1="-348.91" x2="165.09" y2="-348.91" xlink:href="#bare-metal-gradient_4"></linearGradient>
+                                        <linearGradient id="bare-metal-gradient_9" x1="81" y1="-332.74" x2="165" y2="-332.74" xlink:href="#bare-metal-gradient_5"></linearGradient>
                                     </defs>
                                 </svg>
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
-                                    Desinging Tools
+                                    Security Tools
                                 </h3>
                                 <p class="feature__desc">
-                                    Fully automated tools with 100% of success.
+                                    Secure your data with most advanced encryption tools.
                                 </p>
                                                     <div class="feature__actions">
                                     <span class="btn  btn--primary btn--link btn--block">
-                                        See all Desinging Tools
+                                        See all Security Tools
                                     </span>
                                 </div>
                             </div>
@@ -531,11 +531,11 @@
                                     Encryption Tools
                                 </h3>
                                 <p class="feature__desc">
-                                    Secure your data with most advanced encryption tools.
+                                    Fully automated tools with 100% of success.
                                 </p>
                                 <div class="feature__actions">
                                     <span class="btn  btn--primary btn--link btn--block">
-                                        See all Encryption Tools
+                                        Coming Soon
                                     </span>
                                 </div>
                             </div>
@@ -544,109 +544,7 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools">
                             <div class="feature__icon">
-                                <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 480;">
-                                    <g class="animation-element" data-animation-shadow>
-                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"/>
-                                    </g>
-                                    <g class="svg-product__bottom animation-element" data-animation-bottom>
-                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"/>
-                                        <path class="svg-product__bottom-st2" d="M229.2,110.1c-1.1,0.6-102.3,59.1-103.4,59.8c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-59.1-103.4-59.8c-1.4-0.5-2.1-2-1.7-3.3c0.3-0.8,0.9-1.4,1.7-1.7c1.1-0.6,102.3-59.1,103.4-59.8c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.1,103.4,59.8c1.4,0.5,2.1,2,1.6,3.3C230.6,109.1,230,109.8,229.2,110.1z M222,104.9c-1-0.6-96-55.9-97.1-56.5c-2.5-1.3-5.6-1.3-8.1,0c-1,0.6-96,55.9-97.1,56.5c-1.3,0.5-2,1.9-1.5,3.2c0.3,0.7,0.8,1.3,1.5,1.5c1,0.6,96.1,55.9,97.1,56.5c2.5,1.3,5.6,1.3,8.1,0c1-0.6,96.1-55.9,97.1-56.5c1.3-0.4,2-1.9,1.5-3.2
-                                        C223.3,105.8,222.7,105.3,222,104.9z"/>
-                                        <path  class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"/>
-                                        <g>
-                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"/>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"/>
-                                            <path class="svg-product__bottom-st7" d="M214,130v7"/>
-                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"/>
-                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"/>
-                                        </g>
-                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"/>
-                                    </g>
-                                    <g class="svg-product__top animation-element" data-animation-top>
-                                        <g>
-                                            <path class="svg-product__dedicated-st10" d="M231,64.3,56,36.6V66.2l112.2,64.6,59.9-34.2c2-1.1,2.9-2.6,2.9-4.1V64.3Z"/>
-                                            <path class="svg-product__dedicated-st11" d="M169.2,100.9l9.4-5.4,50.3-29.3c1.2-.7,2-1,2.1-2.4,0-.6-.1-1.8-2.1-2.9L125.6,1A7.59,7.59,0,0,0,122-.1,5.32,5.32,0,0,0,118.2,1L65.4,31.2,56,36.6Z"/>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__dedicated-st12" d="M18.24,59.64l38-23.14,113,64.4v29.33l-31.77,18.84Z"/>
-                                            <path class="svg-product__dedicated-st13" d="M12,65V93.5c0,1.5,1,3,2.9,4.1l100.9,57.5c3.3,1.8,7.29,2.15,10.09.65l12.11-7V120.37Z"/>
-                                            <path class="svg-product__dedicated-st14" d="M26.4,55,15.1,61.4c-4.7,2.8-2.7,5-2.1,5.3l102.9,59.5c2.5,1.5,5.4,2.7,8.5,1.1l13.6-6.93Z"/>
-                                            <path class="svg-product__dedicated-st15" d="M69.8,120.7l-7.5-4.4a6.92,6.92,0,0,1-3.1-5.4c0-2,1.4-2.8,3.1-1.8l.7.4v-.4c0-2,1.4-2.8,3.1-1.8a6.92,6.92,0,0,1,3.1,5.4v.4l.7.4a6.92,6.92,0,0,1,3.1,5.4C72.9,120.9,71.5,121.7,69.8,120.7Z"/>
-                                        </g>
-                                    </g>
-                                    <defs>
-                                        <style>
-                                            .svg-product__dedicated-st15 {
-                                                fill: #fff;
-                                            }
-                                            .svg-product__dedicated-st10 {
-                                                fill: url(#svg-gradient__dark-middle-st10);
-                                            }
-                                            .svg-product__dedicated-st11 {
-                                                fill: url(#svg-gradient__dark-top-light);
-                                            }
-                                            .svg-product__dedicated-st12 {
-                                                fill-rule: evenodd;
-                                                opacity: 0.8;
-                                                fill: url(#svg-gradient__dedicated-light);
-                                            }
-                                            .svg-product__dedicated-st13 {
-                                                fill: url(#svg-gradient__blue-middle);
-                                            }
-                                            .svg-product__dedicated-st14 {
-                                                fill: url(#svg-gradient__blue-top-light);
-                                            }
-                                        </style>
-                                        <linearGradient id="svg-gradient__gray-middle" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#CAD1E0"/>
-                                            <stop  offset="0.46" style="stop-color:#BEC5D8"/>
-                                            <stop  offset="0.54" style="stop-color:#D4D9E6"/>
-                                            <stop  offset="1" style="stop-color:#E4E7F0"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-light" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#EAEDF6"/>
-                                            <stop  offset="1" style="stop-color:#F6F8FE"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-shadow" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"/>
-                                            <stop offset="1" stop-color="#131532"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-top-light" gradientUnits="userSpaceOnUse" x1="41.6969" y1="400.85" x2="200.8531" y2="400.85" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop  offset="0" style="stop-color:#5B6791"/>
-                                            <stop  offset="1" style="stop-color:#69759F"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-middle" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-2" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0.01" stop-color="#353d6c"/>
-                                            <stop offset="1" stop-color="#575f8e"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__blue-middle" gradientUnits="userSpaceOnUse" x1="2.398682e-02" y1="191.1406" x2="181.9869" y2="191.1406">
-                                            <stop  offset="0" style="stop-color:#1D53DA"/>
-                                            <stop  offset="1" style="stop-color:#3F75FC"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-dark" gradientUnits="userSpaceOnUse" x1="5.257527e-03" y1="150.01" x2="182.0152" y2="150.01">
-                                            <stop  offset="0" style="stop-color:#0B3EBF"/>
-                                            <stop  offset="1" style="stop-color:#2E5FDB"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-light" gradientUnits="userSpaceOnUse" x1="44.2653" y1="111.2336" x2="137.7526" y2="17.7463">
-                                            <stop  offset="0" style="stop-color:#0397F6"/>
-                                            <stop  offset="1" style="stop-color:#00BAFF"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-st10" x1="56" y1="160.3" x2="231" y2="160.3" xlink:href="#svg-gradient__dark-middle"/>
-                                        <linearGradient id="svg-gradient__dedicated-light"	x1="102.58" y1="44.68" x2="85.78" y2="139.96" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#17bdff"></stop>
-                                            <stop offset="1" stop-color="#17bdff" stop-opacity="0"></stop>
-                                        </linearGradient>
-                                    </defs>
-                                </svg>
+                                <img src="{{asset('dist/img/all-tools.png')}}">
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">

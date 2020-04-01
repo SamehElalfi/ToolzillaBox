@@ -8,7 +8,13 @@ Our goal is to provide online free tools to help content creators, brands, SEOs,
 
 
 ## Log
-- finished json formatter tools v1
+- edited share button in json formatter tool.
+- made all legal pages (Policies).
+- added about-section and faq for every tool.
+- add faq for the website.
+- finished menu bar in json formatter tool.
+- removed images from donate section.
+- added the correct pages in the footer.
 
 
 ## To-Do

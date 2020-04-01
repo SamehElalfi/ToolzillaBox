@@ -2,7 +2,7 @@
 
 @section('title', 'Password Generator')
 
-@section('description', 'Online Password Generator & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms.')
+@section('description', 'Strong and random and secure Password generator tool creates passwords from Words and numbers and capital letters and small letters and Symbols to help you secure your device from hackers.')
 @section('content')
 
     @include('layouts.header')
@@ -272,6 +272,23 @@
             </div>
         </div>
     </section>
+
+    @include('layouts.about_tool', ['about_title'=>'About Password Generator?', 'about_text'=>'The password generator is a tool to generate Strong random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers. To know more about passwords and how to protect yourself from hackers read our guide "Best guide To Create A Strong and secure Password in 2020"'])
+
+    @include('layouts.usage', ['questions'=>[
+        [
+            'q'=>'What is a password generator tool?',
+            'answer'=>'It\'s a tool to generate Strong and random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers.'
+        ],
+        [
+            'q'=>'Does this tool storge the passwords?',
+            'answer'=>'No, It just creates them.'
+        ],
+        [
+            'q'=>'How I can make my password secure and strong?',
+            'answer'=>'You can read our article <a href="#">Best guide To Create A Strong and secure Password  in 2020 - toolzillabox</a>'
+        ],
+]])
 
     @include('layouts.donate')
 

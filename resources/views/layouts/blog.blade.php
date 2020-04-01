@@ -44,13 +44,13 @@
 				<div class="col-lg-6">
 					<a href="/blog/" class="widget widget--last-post m-b-0x has-hover">
 						<div class="widget__media">
-							<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="">
+							<img src="{{asset('/dist/img/json-cover.png')}}" alt="">
 						</div>
 						<div class="widget__body">
 							<div class="widget__content">
-								<h3 class="widget__title h5">How to make JSON code looks beauty in 1 minute</h3>
+								<h3 class="widget__title h5">What are JSON file and JSON format and examples - toolzillabox</h3>
 								<p class="widget__desc p-3">
-									every developer use oneline APIs and get more and more of JSON code. This is why we are very excited to share our ways to make your JSON code looks beauty...
+									Every developer uses a REST API once at least, but like every API, it sends the data in JavaScript Object Notation and that we call JSON code....
 									<span class="is-link">Read More</span>
 								</p>
 							</div>
