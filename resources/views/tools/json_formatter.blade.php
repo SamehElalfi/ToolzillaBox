@@ -272,7 +272,7 @@
     </section>
     <textarea id="t" style="width:0;height:0;"></textarea>
 
-    @include('layouts.about_tool', ['about_title'=>'About JSON Formatter?', 'about_text'=>'The password generator is a tool to generate Strong random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers. To know more about passwords and how to protect yourself from hackers read our guide "Best guide To Create A Strong and secure Password in 2020"'])
+    @include('layouts.about_tool', ['about_title'=>'About JSON Formatter?', 'about_text'=>'Online Json formatter & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms.'])
 
     @include('layouts.usage', [
         'questions'=>[

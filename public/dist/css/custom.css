@@ -724,3 +724,13 @@ textarea.preview_text
 .menubar a:not([href]).spliter:hover {
     background-color: transparent !important;
 }
+
+.footer__brand .brand__logo {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 12px;
+    width: 80px;
+    margin-right: 0;
+    margin-left: -24px;
+}

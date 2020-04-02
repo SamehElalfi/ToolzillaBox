@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tools List')
+@section('title', 'Tools')
 
 @section('content')
     @include('layouts.header', [
@@ -24,7 +24,7 @@
             [
                 'title'=>'JSON Formatter',
                 'link'=>'http://toolzillabox.com/tools/jsonformatter',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
+                'img'=>'dist/img/tools/json-formatter.png',
                 'description'=>'Formate and Validate you JSON Code'
             ]
         ]
@@ -36,7 +36,7 @@
             [
                 'title'=>'Password Generator',
                 'link'=>'https://toolzillabox.com/tools/passwordgenerator',
-                'img'=>'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png',
+                'img'=>'dist/img/tools/password-generator.png',
                 'description'=>'Generate Secure, Strong and long Passwords'
             ]
         ]

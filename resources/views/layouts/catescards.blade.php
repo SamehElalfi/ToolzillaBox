@@ -7,164 +7,41 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools#developmentTools">
                             <div class="feature__icon">
-                                <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve" data-animation data-animation-options="type: packageIcon; delay: 0;">
-                                    <g class="animation-element" data-animation-shadow>
-                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"/>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 481.39 481.39" style="enable-background:new 0 0 481.39 481.39;width: 60%;" xml:space="preserve" fill="#007bfc">
+                                    <g>
+                                        <path d="M240.699,0C107.764,0,0,107.764,0,240.691C0,373.625,107.764,481.39,240.699,481.39   c132.927,0,240.691-107.765,240.691-240.698C481.39,107.764,373.626,0,240.699,0z M187.229,66.647   c6.427,0,11.629,5.226,11.629,11.646c0,9.318,3.175,17.865,8.354,24.816c9.194-7.438,20.732-12.092,33.479-12.092   s24.285,4.654,33.479,12.092c5.178-6.951,8.354-15.498,8.354-24.816c0-6.42,5.202-11.646,11.629-11.646   c6.443,0,11.645,5.226,11.645,11.646c0,16.748-6.411,31.991-16.839,43.543c3.245,6.905,5.194,14.527,5.194,22.666   c0,2.05-0.377,4.009-0.602,5.987c25.495,10.196,40.354,27.19,47.15,43.137c10.442-17.465,16.561-37.803,16.561-59.589   c0-6.429,5.211-11.638,11.645-11.638c6.429,0,11.637,5.209,11.637,11.638c0,36.045-13.825,68.845-36.307,93.659   c-0.338,2.828-0.778,5.919-1.316,9.271c23.258,24.993,37.623,58.372,37.623,95.118c0,3.43-1.548,6.435-3.906,8.563l-20.269-20.27   l-0.254-0.254c-2.197-19.189-8.71-37.077-19.09-52.275c-1.98,8.285-4.462,17.094-7.213,25.972l-0.286-0.285L186.905,150.914   c0.324-0.131,0.602-0.293,0.925-0.425c-0.224-1.979-0.601-3.938-0.601-5.987c0-8.139,1.949-15.761,5.194-22.666   c-10.427-11.552-16.839-26.795-16.839-43.543C175.584,71.873,180.786,66.647,187.229,66.647z M333.443,414.748   c-6.421,0-11.645-5.224-11.645-11.645c0-19.136-6.691-36.714-17.834-50.61c-15.746,25.733-36.507,44.607-63.273,44.607   s-47.551-18.874-63.296-44.607c-11.12,13.897-17.811,31.475-17.811,50.61c0,6.421-5.224,11.645-11.645,11.645   c-6.427,0-11.637-5.224-11.637-11.645c0-28.183,11.276-53.748,29.495-72.553c-9.61-20.954-16.623-43.851-21.44-64.012   c-12.754,18.682-20.237,41.262-20.237,65.547c0,6.427-5.21,11.637-11.645,11.637c-6.429,0-11.638-5.21-11.638-11.637   c0-36.746,14.357-70.125,37.617-95.11c-0.532-3.36-0.98-6.451-1.318-9.279c-22.474-24.822-36.299-57.614-36.299-93.659   c0-0.663,0.27-1.227,0.377-1.857l25.664,25.664l21.879,21.879l191.121,191.121c3.329,10.164,5.202,20.985,5.202,32.26   C345.08,409.524,339.87,414.748,333.443,414.748z"/>
                                     </g>
-                                    <g class="svg-product__bottom animation-element" data-animation-bottom>
-                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"/>
-                                        <path class="svg-product__bottom-st2" d="M229.2,110.1c-1.1,0.6-102.3,59.1-103.4,59.8c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-59.1-103.4-59.8c-1.4-0.5-2.1-2-1.7-3.3c0.3-0.8,0.9-1.4,1.7-1.7c1.1-0.6,102.3-59.1,103.4-59.8c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.1,103.4,59.8c1.4,0.5,2.1,2,1.6,3.3C230.6,109.1,230,109.8,229.2,110.1z M222,104.9c-1-0.6-96-55.9-97.1-56.5c-2.5-1.3-5.6-1.3-8.1,0c-1,0.6-96,55.9-97.1,56.5c-1.3,0.5-2,1.9-1.5,3.2c0.3,0.7,0.8,1.3,1.5,1.5c1,0.6,96.1,55.9,97.1,56.5c2.5,1.3,5.6,1.3,8.1,0c1-0.6,96.1-55.9,97.1-56.5c1.3-0.4,2-1.9,1.5-3.2
-                                        C223.3,105.8,222.7,105.3,222,104.9z"/>
-                                        <path  class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"/>
-                                        <g>
-                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"/>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"/>
-                                            <path class="svg-product__bottom-st7" d="M214,130v7"/>
-                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"/>
-                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"/>
-                                        </g>
-                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"/>
+                                    <g>
                                     </g>
-                                    <g class="svg-product__top animation-element" data-animation-top>
-                                        <path class="svg-product__compute-st9" d="M232,64.1L12,63.7c0,0,0,3.6,0,5.1l0,0c0.1,1.1,0.8,2.1,1.8,2.5c1.1,0.6,102.8,59.9,103.9,60.5c2.7,1.4,5.9,1.4,8.6,0c1.1-0.6,102.8-59.9,103.9-60.5c1-0.5,1.7-1.4,1.8-2.5l0,0C231.9,67.7,232,64.1,232,64.1"/>
-                                        <path class="svg-product__compute-st10" d="M122-0.1c-1.5,0-3,0.3-4.3,1c-1.1,0.7-102.8,60-103.9,60.6c-1,0.5-1.7,1.4-1.8,2.5l0,0c0.1,1.1,0.8,2.1,1.8,2.5c1.1,0.6,102.8,59.9,103.9,60.5c2.7,1.4,5.9,1.4,8.6,0c1.1-0.6,102.8-59.9,103.9-60.5c1-0.5,1.7-1.4,1.8-2.5l0,0c-0.1-1.1-0.8-2.1-1.8-2.5C229.1,60.8,127.4,1.6,126.3,1C125,0.2,123.5-0.1,122-0.1"/>
-                                        <g>
-                                            <g>
-                                                <path class="svg-product__compute-st11" d="M203.5,64.6l-38.8,23c-0.8,0.4-1.7,0.3-2.4-0.1l-38.4-22.7c-0.7-0.4-0.8-1.1-0.2-1.4l38.8-23c0.8-0.4,1.7-0.3,2.4,0.1l38.5,22.6C204.1,63.5,204.2,64.2,203.5,64.6z M122.3,62.1c-0.8,0.4-1.7,0.3-2.4-0.1L81.5,39.3c-0.7-0.4-0.8-1.1-0.2-1.4l38.8-23c0.8-0.4,1.7-0.3,2.4,0.1l38.4,22.7c0.7,0.4,0.8,1.1,0.2,1.4L122.3,62.1z M118.7,64.6l-38.8,23c-0.8,0.4-1.7,0.3-2.4-0.1L39.1,64.7c-0.7-0.4-0.8-1.1-0.2-1.4l38.8-23c0.8-0.4,1.7-0.3,2.4,0.1l38.4,22.7
-                                                C119.2,63.5,119.3,64.2,118.7,64.6z M120.3,65.3c0.8-0.4,1.7-0.3,2.4,0.1L161.2,88c0.7,0.4,0.8,1.1,0.2,1.4l-37.5,22.2c-1.6,0.9-3.5,0.9-5,0l-37.3-22c-0.7-0.4-0.8-1.1-0.2-1.4L120.3,65.3z"/>
-                                                <path class="svg-product__compute-st12" d="M84.1,37.9v-5.3h74.3v5.3c0.1,0.4-0.1,0.9-0.4,1.1l-35.7,20.9c-0.7,0.3-1.6,0.3-2.2-0.1L84.7,39.2C84.2,38.9,84,38.4,84.1,37.9z"/>
-                                                <path  class="svg-product__compute-st13" d="M41.7,63.4v-5.8l74.3,0.1v5.8c0.1,0.4-0.1,0.9-0.4,1.1L79.8,85.4c-0.7,0.3-1.6,0.3-2.2-0.1L42.2,64.7C41.8,64.4,41.6,63.9,41.7,63.4z"/>
-                                                <path class="svg-product__compute-st14" d="M126.7,63v-5.3h74.4V63c0.1,0.4-0.1,0.9-0.4,1.1l-35.8,20.8c-0.7,0.3-1.6,0.3-2.3-0.1l-35.4-20.5C126.8,64,126.6,63.5,126.7,63z"/>
-                                                <path class="svg-product__compute-st15" d="M84.5,31.5l35.7-20.9c0.7-0.3,1.6-0.3,2.3,0.1l35.4,20.7c0.7,0.4,0.7,1,0.2,1.3l-35.7,20.9c-0.7,0.3-1.6,0.3-2.2-0.1L84.6,32.8C84,32.4,83.9,31.9,84.5,31.5z M126.9,57l35.7-20.9c0.7-0.3,1.6-0.3,2.3,0.1l35.4,20.7c0.7,0.4,0.7,1,0.2,1.3l-35.8,20.9c-0.7,0.3-1.6,0.3-2.2-0.1l-35.4-20.7C126.4,57.9,126.3,57.3,126.9,57L126.9,57z
-                                                M42.1,57l35.6-20.9c0.7-0.3,1.6-0.3,2.3,0.1l35.4,20.7c0.7,0.4,0.7,1,0.2,1.3L79.8,79.1c-0.7,0.3-1.6,0.3-2.2-0.1L42.2,58.3C41.6,57.9,41.5,57.3,42.1,57L42.1,57z"/>
-                                                <path class="svg-product__compute-st16" d="M84.2,87.7v-5.3h74.4v5.3c0.1,0.4-0.1,0.9-0.4,1.1l-35.8,20.8c-0.7,0.3-1.6,0.3-2.3-0.1L84.8,88.9C84.3,88.6,84.1,88.1,84.2,87.7z"/>
-                                                <path class="svg-product__compute-st17" d="M84.5,82.4l35.7-20.9c0.7-0.3,1.6-0.3,2.3,0.1l35.4,20.7c0.7,0.4,0.7,1,0.2,1.3l-35.7,20.9c-0.7,0.3-1.6,0.3-2.2-0.1L84.6,83.7C84,83.4,83.9,82.8,84.5,82.4z"/>
-                                            </g>
-                                            <g>
-                                                <path class="svg-product__compute-st18" d="M115.2,29.2l2-1.1l11.7,6.8L127,36L115.2,29.2z"/>
-                                                <path class="svg-product__compute-st18" d="M126.9,28l1.9,1.1l-11.7,6.8l-2-1.1L126.9,28z"/>
-                                                <path class="svg-product__compute-st18" d="M156.5,55.4l1.9-1.1l11.7,6.8l-2,1.1L156.5,55.4z"/>
-                                                <path class="svg-product__compute-st18" d="M83,61.3l-11.6-6.4l1.9-1.1l11.6,6.4L83,61.3z M76.1,60.3l-2.4,1.3l-2.3-1.4l2.4-1.3L76.1,60.3z"/>
-                                                <path class="svg-product__compute-st18" d="M85.1,54.8l-2.3,1.3l-2.4-1.4l2.4-1.3L85.1,54.8z"/>
-                                                <path class="svg-product__compute-st19" d="M116.7,77.8l2-1.1l11.7,6.8l-1.9,1.1L116.7,77.8z M111.1,81.2l2-1.1l11.7,6.8l-1.9,1.1L111.1,81.2z"/>
-                                                <path class="svg-product__compute-st20" d="M132,84.1l-9,0l0,5l-3,0v-5h-9v-2l9,0l0-5l3,0v5h9V84.1z"/>
-                                            </g>
-                                        </g>
+                                    <g>
                                     </g>
-                                    <defs>
-                                        <style type="text/css">
-                                            .svg-product__compute-st9 {
-                                                fill: url(#svg-gradient__dark-middle-2);
-                                            }
-                                            .svg-product__compute-st12 {
-                                                fill: url(#svg-gradient__compute-st12);
-                                            }
-                                            .svg-product__compute-st13 {
-                                                fill: url(#svg-gradient__dark-middle-st13);
-                                            }
-                                            .svg-product__compute-st14 {
-                                                fill: url(#svg-gradient__dark-middle-st14);
-                                            }
-                                            .svg-product__compute-st10 {
-                                                fill: url(#svg-gradient__dark-top-dark);
-                                            }
-                                            .svg-product__compute-st11 {
-                                                opacity: 0.7;
-                                                fill: #1D2540;
-                                                enable-background: new;
-                                            }
-                                            .svg-product__compute-st15 {
-                                                fill: url(#svg-gradient__dark-top-light);
-                                            }
-                                            .svg-product__compute-st16 {
-                                                fill: url(#svg-gradient__blue-middle-st16);
-                                            }
-                                            .svg-product__compute-st17 {
-                                                fill: url(#svg-gradient__blue-top-light-st17);
-                                            }
-                                            .svg-product__compute-st18 {
-                                                fill: #FFFFFF;
-                                            }
-                                            .svg-product__compute-st19 {
-                                                display: none;
-                                                fill: #FFFFFF;
-                                            }
-                                            .svg-product__compute-st20 {
-                                                fill-rule: evenodd;
-                                                clip-rule: evenodd;
-                                                fill: #FFFFFF;
-                                            }
-                                        </style>
-                                        <linearGradient id="svg-gradient__gray-middle" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#CAD1E0"/>
-                                            <stop  offset="0.46" style="stop-color:#BEC5D8"/>
-                                            <stop  offset="0.54" style="stop-color:#D4D9E6"/>
-                                            <stop  offset="1" style="stop-color:#E4E7F0"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-dark" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#99A1BE"/>
-                                            <stop  offset="1" style="stop-color:#B3BACF"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-light" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#EAEDF6"/>
-                                            <stop  offset="1" style="stop-color:#F6F8FE"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-shadow" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"/>
-                                            <stop offset="1" stop-color="#131532"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-top-dark" gradientUnits="userSpaceOnUse" x1="12" y1="419.9333" x2="232" y2="419.9333" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop  offset="5.139655e-03" style="stop-color:#3F4B75"/>
-                                            <stop  offset="1" style="stop-color:#636F99"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-top-light" gradientUnits="userSpaceOnUse" x1="41.6969" y1="400.85" x2="200.8531" y2="400.85" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop  offset="0" style="stop-color:#5B6791"/>
-                                            <stop  offset="1" style="stop-color:#69759F"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-middle" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-2" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0.01" stop-color="#353d6c"/>
-                                            <stop offset="1" stop-color="#575f8e"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-middle" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-2" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0.01" stop-color="#353d6c"/>
-                                            <stop offset="1" stop-color="#575f8e"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__blue-middle" gradientUnits="userSpaceOnUse" x1="2.398682e-02" y1="191.1406" x2="181.9869" y2="191.1406">
-                                            <stop  offset="0" style="stop-color:#1D53DA"/>
-                                            <stop  offset="1" style="stop-color:#3F75FC"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-dark" gradientUnits="userSpaceOnUse" x1="5.257527e-03" y1="150.01" x2="182.0152" y2="150.01">
-                                            <stop  offset="0" style="stop-color:#0B3EBF"/>
-                                            <stop  offset="1" style="stop-color:#2E5FDB"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-light" gradientUnits="userSpaceOnUse" x1="44.2653" y1="111.2336" x2="137.7526" y2="17.7463">
-                                            <stop  offset="0" style="stop-color:#0397F6"/>
-                                            <stop  offset="1" style="stop-color:#00BAFF"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-st13" x1="41.6745" y1="427.5834" x2="116.026" y2="427.5834" xlink:href="#svg-gradient__dark-middle-2"/>
-                                        <linearGradient id="svg-gradient__dark-middle-st14" x1="126.6745" y1="427.4069" x2="201.126" y2="427.4069" xlink:href="#svg-gradient__dark-middle-2"/>
-                                        <linearGradient id="svg-gradient__blue-middle-st16" x1="84.175" y1="452.1069" x2="158.626" y2="452.1069" xlink:href="#svg-gradient__blue-middle"/>
-                                        <linearGradient id="svg-gradient__blue-top-light-st17" x1="84.0969" y1="439" x2="158.3339" y2="439" xlink:href="#svg-gradient__blue-top-light"/>
-                                        <linearGradient id="svg-gradient__compute-st12" gradientUnits="userSpaceOnUse" x1="84.075" y1="402.3569" x2="158.426" y2="402.3569" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop offset="0" style="stop-color:#373F6E"></stop>
-                                            <stop offset="0.46" style="stop-color:#373F6E"></stop>
-                                            <stop offset="1" style="stop-color:#5A6291"></stop>
-                                        </linearGradient>
-                                    </defs>
-                                </svg>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    </svg>
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
@@ -184,202 +61,42 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools#securityTools">
                             <div class="feature__icon">
-                                <svg class="svg-product" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="" xml:space="preserve" data-animation="" data-animation-options="type: packageIcon; delay: 160;">
-                                    <g class="animation-element" data-animation-shadow="" style="">
-                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"></path>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 494.545 494.545" style="enable-background:new 0 0 494.545 494.545;width: 60%;" xml:space="preserve" fill="#007bfc">
+                                    <g>
+                                        <path d="M247.273,0C116.427,0,0,78.533,0,140.44c0,44.091,100.112,354.104,247.273,354.104   c147.161,0,247.272-310.013,247.272-354.104C494.545,78.533,378.118,0,247.273,0z M247.273,447.194   c-101.444,0-199.922-264.489-199.922-306.754c0-22.503,82.956-93.09,199.922-93.09c116.965,0,199.922,70.587,199.922,93.09   C447.194,182.705,348.716,447.194,247.273,447.194z"/>
+                                        <path d="M326.745,184.277h-6.228v-40.654c0-23.089-18.797-41.886-41.887-41.886h-62.717c-23.09,0-41.878,18.797-41.878,41.886   v40.654H167.8c-11.955,0-21.641,9.688-21.641,21.641v107.857c0,11.953,9.687,21.641,21.641,21.641h158.945   c11.953,0,21.641-9.688,21.641-21.641V205.918C348.386,193.965,338.698,184.277,326.745,184.277z M263.186,269.245v22.534   c0,8.787-7.121,15.915-15.914,15.915c-8.785,0-15.915-7.128-15.915-15.915v-22.534c-6.427-4.847-10.643-12.47-10.643-21.148   c0-14.666,11.884-26.571,26.558-26.571s26.565,11.905,26.565,26.571C273.837,256.774,269.613,264.404,263.186,269.245z    M285.921,184.277h-77.298v-36.654c0-5.997,4.878-10.867,10.867-10.867h55.566c5.988,0,10.865,4.871,10.865,10.867V184.277z"/>
                                     </g>
-                                    <g class="svg-product__bottom animation-element" data-animation-bottom="" style="">
-                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"></path>
-                                        <path class="svg-product__bottom-st2" d="M229.2,110.1c-1.1,0.6-102.3,59.1-103.4,59.8c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-59.1-103.4-59.8c-1.4-0.5-2.1-2-1.7-3.3c0.3-0.8,0.9-1.4,1.7-1.7c1.1-0.6,102.3-59.1,103.4-59.8c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.1,103.4,59.8c1.4,0.5,2.1,2,1.6,3.3C230.6,109.1,230,109.8,229.2,110.1z M222,104.9c-1-0.6-96-55.9-97.1-56.5c-2.5-1.3-5.6-1.3-8.1,0c-1,0.6-96,55.9-97.1,56.5c-1.3,0.5-2,1.9-1.5,3.2c0.3,0.7,0.8,1.3,1.5,1.5c1,0.6,96.1,55.9,97.1,56.5c2.5,1.3,5.6,1.3,8.1,0c1-0.6,96.1-55.9,97.1-56.5c1.3-0.4,2-1.9,1.5-3.2
-                                        C223.3,105.8,222.7,105.3,222,104.9z"></path>
-                                        <path class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"></path>
-                                        <g>
-                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"></path>
-                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"></path>
-                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"></path>
-                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"></path>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"></path>
-                                            <path class="svg-product__bottom-st7" d="M214,130v7"></path>
-                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"></path>
-                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"></path>
-                                        </g>
-                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"></path>
+                                    <g>
                                     </g>
-                                    <g class="svg-illustration-top animation-element" data-animation-top="" style="">
-                                        <g id="board">
-                                            <path class="svg-product__bare-metal-st11" d="M232,64.49,13,64.1v4h0c.1,1.1,1,3.2,2,3.6,1.1.6,102.19,59.53,103.28,60.13a9.33,9.33,0,0,0,8.6,0C128,131.23,229.1,72.3,230.2,71.7s1.8-2.39,1.8-3.5Z"></path>
-                                            <path class="svg-product__bare-metal-st12" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"></path>
-                                            <path class="svg-product__bare-metal-st13" d="M35.5,64.4a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0C36.9,62.4,36.9,63.7,35.5,64.4Zm90,52a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm0-104a5.3,5.3,0,0,1-4.9,0c-1.4-.8-1.4-2,0-2.8a5.3,5.3,0,0,1,4.9,0c1.3.8,1.3,2.1,0,2.8Zm96,53a5.51,5.51,0,0,1-5,0c-1.4-.8-1.4-2,0-2.8a5.51,5.51,0,0,1,5,0c1.4.8,1.4,2.1,0,2.8Z"></path>
-                                            <path class="svg-product__bare-metal-st14" d="M123,32.1,163.7,54l14.1,8.1a1.08,1.08,0,0,1,.7,1.4,1.21,1.21,0,0,1-.7.7l-53,30.4a3.66,3.66,0,0,1-1.8.4,3.92,3.92,0,0,1-1.8-.4l-53-30.4a1.08,1.08,0,0,1-.7-1.4,1.21,1.21,0,0,1,.7-.7Z"></path>
-                                            <g class="svg-product__bare-metal-st15">
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M72.2,27.9l8.3,5.2v12l9.2,5.4"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M134.8,88.8l8.7,6.2v10l10.4,6.9"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M156.3,76.5l8.3,5.5V94l9.4,6.1"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M93,16.4l10.5,6.7v11l9,5"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M166.5,70.2l8,5.4h23l8.6,5.4"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M52.8,72.7,61.2,78"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M68.6,82.2,76,86.4"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st17" d="M84.5,90.6l22.2,13.7"></path>
-                                                </g>
-                                                <g class="svg-product__bare-metal-st16">
-                                                    <path class="svg-product__bare-metal-st18" d="M40.4,46.4l8,5.2h22l7.7,4.8"></path>
-                                                </g>
-                                            </g>
-                                            <g id="small">
-                                                <path class="svg-product__bare-metal-st19" d="M186.9,47a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2L192.4,56l-4.7,2.8a.85.85,0,0,1-.8,0L182.1,56l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"></path>
-                                                <path class="svg-product__bare-metal-st19" d="M141.8,20.7a.6.6,0,0,1,.4-.1c.2,0,.3,0,.4.1l4.7,2.8,4.8,2.8a.52.52,0,0,1,.2.4c0,.1-.1.1-.2.2l-4.8,2.8-4.7,2.8a.85.85,0,0,1-.8,0L137,29.7l-4.8-2.8a.52.52,0,0,1-.2-.4c0-.1.1-.1.2-.2l4.8-2.8Z"></path>
-                                                <path class="svg-product__bare-metal-st20" d="M148.9,23.4v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V23.4Z"></path>
-                                                <path class="svg-product__bare-metal-st21" d="M141.7,19.4c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"></path>
-                                                <path class="svg-product__bare-metal-st22" d="M194.3,49.8v2.7c0,.1-.1.1-.1.2l-3.2,2-3.2,2a.5.5,0,0,1-.6,0l-3.2-2-3.2-2c-.1,0-.1-.1-.1-.2V49.8Z"></path>
-                                                <path class="svg-product__bare-metal-st23" d="M187.1,45.8c.1,0,.2-.1.3-.1a.37.37,0,0,1,.3.1l3.2,1.9,3.2,1.9c.1,0,.1.1.1.2a.1.1,0,0,1-.1.1l-3.2,1.9-3.2,1.9c-.1,0-.2.1-.3.1a.37.37,0,0,1-.3-.1l-3.2-1.9-3.2-1.9c-.1,0-.1-.1-.1-.2a.1.1,0,0,1,.1-.1l3.2-1.9Z"></path>
-                                            </g>
-                                        </g>
-                                        <g id="cpu">
-                                            <path class="svg-product__bare-metal-st24" d="M165,54.71V63a1.22,1.22,0,0,1-.71,1L144.53,75.36,124.77,86.7a3.71,3.71,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.37,75.36,81.71,64A1.22,1.22,0,0,1,81,63v-8.3Z"></path>
-                                            <path class="svg-product__bare-metal-st25" d="M121.23,30.83a3.65,3.65,0,0,1,3.54,0L144.5,42.26,164.24,53.7a1.24,1.24,0,0,1,.71,1.42,1.6,1.6,0,0,1-.71.7L144.5,67.26,124.77,78.7a3.74,3.74,0,0,1-1.82.4,4,4,0,0,1-1.82-.4L101.39,67.26,81.76,55.72a1.23,1.23,0,0,1-.71-1.41,1.21,1.21,0,0,1,.71-.71L101.5,42.16Z"></path>
-                                        </g>
-                                        <clipPath id="clip-path">
-                                            <path class="svg-product__bare-metal-st1" d="M122.5,0a9.07,9.07,0,0,0-4.3,1c-1.1.7-102.3,59.7-103.4,60.3A3.13,3.13,0,0,0,13,63.8h0a3,3,0,0,0,1.8,2.5c1.1.6,102.3,59.6,103.4,60.2a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-59.6,103.4-60.2a3.13,3.13,0,0,0,1.8-2.5h0a3,3,0,0,0-1.8-2.5c-1.1-.6-102.3-59.6-103.4-60.2A9.16,9.16,0,0,0,122.5,0"></path>
-                                        </clipPath>
+                                    <g>
                                     </g>
-                                    <defs>
-                                        <style>
-                                            .svg-product__bare-metal-st1 {
-                                                opacity: 0.08;
-                                                fill: url(#dedicated-gradient_17);
-                                            }
-                                            .svg-product__bare-metal-st17,
-                                            .svg-product__bare-metal-st18 {
-                                                fill: none;
-                                            }
-                                            .svg-product__bare-metal-st2 {
-                                                fill: #001855;
-                                                opacity: 0.08;
-                                            }
-                                            .svg-product__bare-metal-st14,
-                                            .svg-product__bare-metal-st2 {
-                                                isolation: isolate;
-                                            }
-                                            .svg-product__bare-metal-st11 {
-                                                fill: url(#bare-metal-gradient_11);
-                                            }
-                                            .svg-product__bare-metal-st12 {
-                                                fill: url(#bare-metal-gradient_3);
-                                            }
-                                            .svg-product__bare-metal-st13 {
-                                                fill: #e6e6e6;
-                                            }
-                                            .svg-product__bare-metal-st14, .svg-product__bare-metal-st19 {
-                                                fill: #292e47;
-                                            }
-                                            .svg-product__bare-metal-st14 {
-                                                opacity: 0.8;
-                                            }
-                                            .svg-product__bare-metal-st15 {
-                                                opacity: 0.64;
-                                            }
-                                            .svg-product__bare-metal-st16 {
-                                                clip-path: url(#clip-path);
-                                            }
-                                            .svg-product__bare-metal-st17, .svg-product__bare-metal-st18 {
-                                                stroke: #292e47;
-                                                stroke-width: 0.5px;
-                                            }
-                                            .svg-product__bare-metal-st18 {
-                                                stroke-linecap: square;
-                                            }
-                                            .svg-product__bare-metal-st19 {
-                                                fill-opacity: 0.7;
-                                            }
-                                            .svg-product__bare-metal-st20 {
-                                                fill: url(#bare-metal-gradient_4);
-                                            }
-                                            .svg-product__bare-metal-st21 {
-                                                fill: url(#bare-metal-gradient_5);
-                                            }
-                                            .svg-product__bare-metal-st22 {
-                                                fill: url(#bare-metal-gradient_6);
-                                            }
-                                            .svg-product__bare-metal-st23 {
-                                                fill: url(#bare-metal-gradient_7);
-                                            }
-                                            .svg-product__bare-metal-st24 {
-                                                fill: url(#bare-metal-gradient_8);
-                                            }
-                                            .svg-product__bare-metal-st25 {
-                                                fill: url(#bare-metal-gradient_9);
-                                            }
-                                        </style>
-                                        <linearGradient id="svg-gradient__gray-middle" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" style="stop-color:#CAD1E0"></stop>
-                                            <stop offset="0.46" style="stop-color:#BEC5D8"></stop>
-                                            <stop offset="0.54" style="stop-color:#D4D9E6"></stop>
-                                            <stop offset="1" style="stop-color:#E4E7F0"></stop>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-dark" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" style="stop-color:#99A1BE"></stop>
-                                            <stop offset="1" style="stop-color:#B3BACF"></stop>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-light" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" style="stop-color:#EAEDF6"></stop>
-                                            <stop offset="1" style="stop-color:#F6F8FE"></stop>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-shadow" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"></stop>
-                                            <stop offset="1" stop-color="#131532"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="dedicated-gradient_17" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"></stop>
-                                            <stop offset="1" stop-color="#131532"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient" x1="13" y1="478.1" x2="232" y2="478.1" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.48" stop-color="#d2d8e6"></stop>
-                                            <stop offset="0.52" stop-color="#e0e4ef"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_2" x1="13.09" y1="478.07" x2="232.09" y2="478.07" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#bbc1d4" stop-opacity="0"></stop>
-                                            <stop offset="0.35" stop-color="#bbc1d4" stop-opacity="0.7"></stop>
-                                            <stop offset="1" stop-color="#bbc1d4" stop-opacity="0"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_11" x1="13" y1="454.49" x2="232" y2="454.49" gradientTransform="translate(0 -356)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#373f6e"></stop>
-                                            <stop offset="1" stop-color="#5a6291"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_3" x1="13" y1="-341.78" x2="232" y2="-341.78" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.01" stop-color="#3f4b75"></stop>
-                                            <stop offset="1" stop-color="#636f99"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_4" x1="135.13" y1="-304.9" x2="148.88" y2="-304.9" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#1d53da"></stop>
-                                            <stop offset="1" stop-color="#3f75fc"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_5" x1="135.12" y1="-301.35" x2="148.88" y2="-301.35" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#0397f6"></stop>
-                                            <stop offset="1" stop-color="#00baff"></stop>
-                                        </linearGradient>
-                                        <linearGradient id="bare-metal-gradient_6" x1="180.54" y1="-331.3" x2="194.28" y2="-331.3" xlink:href="#bare-metal-gradient_4"></linearGradient>
-                                        <linearGradient id="bare-metal-gradient_7" x1="180.53" y1="-327.75" x2="194.28" y2="-327.75" xlink:href="#bare-metal-gradient_5"></linearGradient>
-                                        <linearGradient id="bare-metal-gradient_8" x1="81" y1="-348.91" x2="165.09" y2="-348.91" xlink:href="#bare-metal-gradient_4"></linearGradient>
-                                        <linearGradient id="bare-metal-gradient_9" x1="81" y1="-332.74" x2="165" y2="-332.74" xlink:href="#bare-metal-gradient_5"></linearGradient>
-                                    </defs>
-                                </svg>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    <g>
+                                    </g>
+                                    </svg>
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
@@ -397,134 +114,9 @@
                         </a>
                     </div>
                     <div class="col-3 content-slider__item">
-                        <a class="feature feature--big-icon feature--boxed feature--shadow" href="/soon/block-storage/">
+                        <a class="feature feature--big-icon feature--boxed feature--shadow">
                             <div class="feature__icon">
-                                <svg class="svg-product is-animated" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 244 243.1" style="enable-background:new 0 0 244 243.1;" xml:space="preserve"	 data-animation data-animation-options="type: packageIcon; delay: 320;">
-                                    <g class="animation-element" data-animation-shadow>
-                                        <path class="svg-product__shadow" d="M122,117.5a9.07,9.07,0,0,0-4.3,1c-1.1.6-102.3,58.7-103.4,59.3a3,3,0,0,0-1.8,2.5h0a3.13,3.13,0,0,0,1.8,2.5c1.1.6,102.3,58.7,103.4,59.3a9.33,9.33,0,0,0,8.6,0c1.1-.6,102.3-58.7,103.4-59.3a3,3,0,0,0,1.8-2.5h0a3.13,3.13,0,0,0-1.8-2.5c-1.1-.6-102.3-58.7-103.4-59.3a10.43,10.43,0,0,0-4.3-1"/>
-                                    </g>
-                                    <g class="svg-product__bottom animation-element" data-animation-bottom>
-                                        <path class="svg-product__bottom-st1" d="M231,107.9C231,107.9,231,108.1,231,107.9c0,0.1,0,0.1,0,0.2v29c-0.1,1.1-0.8,2-1.8,2.5c-1.1,0.6-102.3,58.7-103.4,59.3c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-58.7-103.4-59.3c-1-0.4-1.7-1.4-1.8-2.5V108l0,0l0,0v-0.5h0.1c0.3-0.9,0.9-1.6,1.7-2c1.1-0.6,102.3-59.6,103.4-60.2c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.6,103.4,60.2c0.8,0.4,1.4,1.1,1.7,2h0.1V107.9z"/>
-                                        <path class="svg-product__bottom-st2" d="M229.2,110.1c-1.1,0.6-102.3,59.1-103.4,59.8c-2.7,1.4-5.9,1.4-8.6,0c-1.1-0.6-102.3-59.1-103.4-59.8c-1.4-0.5-2.1-2-1.7-3.3c0.3-0.8,0.9-1.4,1.7-1.7c1.1-0.6,102.3-59.1,103.4-59.8c2.7-1.4,5.9-1.4,8.6,0c1.1,0.6,102.3,59.1,103.4,59.8c1.4,0.5,2.1,2,1.6,3.3C230.6,109.1,230,109.8,229.2,110.1z M222,104.9c-1-0.6-96-55.9-97.1-56.5c-2.5-1.3-5.6-1.3-8.1,0c-1,0.6-96,55.9-97.1,56.5c-1.3,0.5-2,1.9-1.5,3.2c0.3,0.7,0.8,1.3,1.5,1.5c1,0.6,96.1,55.9,97.1,56.5c2.5,1.3,5.6,1.3,8.1,0c1-0.6,96.1-55.9,97.1-56.5c1.3-0.4,2-1.9,1.5-3.2
-                                        C223.3,105.8,222.7,105.3,222,104.9z"/>
-                                        <path  class="svg-product__bottom-st3" d="M116.9,165.9c-0.8-0.4-50.8-29.5-78.8-45.7c30.3-17.5,78.3-45.2,79-45.7c2.7-1.4,5.9-1.4,8.6,0c0.8,0.4,48.1,27.8,78.5,45.4c-27.9,16.2-78.5,45.6-79.3,46C122.5,167.2,119.5,167.2,116.9,165.9z"/>
-                                        <g>
-                                            <path class="svg-product__bottom-st5" d="M25,127.8l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M25,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st6" d="M34.6,133.1l5.3,3.2"/>
-                                            <path class="svg-product__bottom-st5" d="M34.6,138.5l5.3,3.2"/>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__bottom-st7" d="M210,132.5v7"/>
-                                            <path class="svg-product__bottom-st7" d="M214,130v7"/>
-                                            <path class="svg-product__bottom-st7" d="M218,127.5v7.5"/>
-                                            <path class="svg-product__bottom-st7" d="M222,125.4v7"/>
-                                        </g>
-                                        <path class="svg-product__bottom-st8" d="M69.5,156.8l38.6,22.1"/>
-                                    </g>
-                                    <g class="svg-product__top animation-element" data-animation-top>
-                                        <g>
-                                            <path class="svg-product__block-storage-st10" d="M73,42c0,1.5,1,3,3,4.1L95.2,57l19.2,10.9a15.89,15.89,0,0,0,14.4,0L147.9,57l19.2-10.9c2-1.1,3-2.6,3-4.1V28.6H73V42Zm59,36c0,1.5,1,3,3,4.1L154.2,93l19.2,10.9a15.89,15.89,0,0,0,14.4,0L206.9,93l19.2-10.9c2-1.1,3-2.6,3-4.1V64.6h-97L132,78ZM109,64.6H12V78c0,1.5,1,3,3,4.1l2.4,1.4,16.8,9.8L51,102.6l2.4,1.4a15.89,15.89,0,0,0,14.4,0L86.9,93l19.2-10.9c2-1.1,3-2.6,3-4.1L109,64.6Z"/>
-                                            <path class="svg-product__block-storage-st11" d="M18.9,76.8a1.12,1.12,0,0,0-1.6.1,1.61,1.61,0,0,0-.3.9v5.7l34,19.1V97.9a4.17,4.17,0,0,0-1.8-3.1Zm61-36a1.12,1.12,0,0,0-1.6.1,1.61,1.61,0,0,0-.3.9v5.7l34,19.1V61.9a4.17,4.17,0,0,0-1.8-3.1Zm59.9,35a1.12,1.12,0,0,0-1.6.1,1.61,1.61,0,0,0-.3.9v7.3l34,19.5V96.9a4.17,4.17,0,0,0-1.8-3.1Z"/>
-                                            <path class="svg-product__block-storage-st12" d="M226.1,68.7c2-1.1,3-2.6,3-4.1s-1-3-3-4.2L206.9,49.3,187.7,38.2a15.89,15.89,0,0,0-14.4,0L154.1,49.3,135,60.4c-2,1.1-3,2.6-3,4.2s1,3,3,4.1l19.2,11.1,19.2,11.1a15.89,15.89,0,0,0,14.4,0L207,79.8Zm-59-36c2-1.1,3-2.6,3-4.2s-1-3-3-4.2L147.9,13.2,128.7,2.3a15.89,15.89,0,0,0-14.4,0L95.2,13.4,76,24.4c-2,1.1-3,2.6-3,4.2s1,3,3,4.1L95.2,43.8l19.2,11.1a15.89,15.89,0,0,0,14.4,0L148,43.8Zm-61,36c2-1.1,3-2.6,3-4.1s-1-3-3-4.2l-19.2-11L67.7,38.3a15.89,15.89,0,0,0-14.4,0L34.2,49.4,15,60.4c-2,1.1-3,2.6-3,4.2s1,3,3,4.1L34.2,79.8,53.4,90.9a15.89,15.89,0,0,0,14.4,0L87,79.8Z"/>
-                                        </g>
-                                        <g>
-                                            <path class="svg-product__block-storage-st13" d="M72,100.6h97V114c0,1.5-1,3-3,4.1L146.9,129l-19.2,10.9a15.89,15.89,0,0,1-14.4,0l-2.4-1.4L94.1,128.2l-16.8-8.7-2.4-1.4c-2-1.1-3-2.6-3-4.1l.1-13.4Z"/>
-                                            <path class="svg-product__block-storage-st14" d="M79.8,113.8a1.12,1.12,0,0,0-1.6.1,1.61,1.61,0,0,0-.3.9v5.7l34,19.1v-4.7a4.17,4.17,0,0,0-1.8-3.1Z"/>
-                                            <path class="svg-product__block-storage-st15" d="M166.1,103.7c2-1.1,3-2.6,3-4.1s-1-3-3-4.2L146.9,84.3,127.7,73.2a15.89,15.89,0,0,0-14.4,0L94.2,84.4,75,95.4c-2,1.1-3,2.6-3,4.2s1,3,3,4.1l19.2,11.1,19.2,11.1a15.89,15.89,0,0,0,14.4,0L147,114.8Z"/>
-                                            <path class="svg-product__block-storage-st16" d="M134.4,100.2l-2.6-1.5a3,3,0,0,0-2.6,0l-9.4,5.6a.88.88,0,0,0-.5,1,1.21,1.21,0,0,0,.5.5l2.6,1.5a10.84,10.84,0,0,0,10.2,0l1.7-1C137.2,104.6,137.2,101.9,134.4,100.2Zm-4.2,5.5a5.72,5.72,0,0,1-5.1,0l-1.3-.8,6.8-4,1.3.8a1.6,1.6,0,0,1,0,3Zm-24.8-8.6a7.42,7.42,0,0,0,6.8,0c1.4-.8,1.8-2,1.1-3-.4-.6-1.1-1.7-1.4-2.3a.57.57,0,0,1,.2-.7h.1a1.72,1.72,0,0,1,1.7,0l2.6,1.5a3,3,0,0,0,2.6,0,.88.88,0,0,0,.5-1,1.21,1.21,0,0,0-.5-.5l-2.6-1.5a7.42,7.42,0,0,0-6.8,0c-1.4.8-1.7,2-1.1,3,.4.6,1.1,1.7,1.4,2.3a.57.57,0,0,1-.2.7h-.1a1.72,1.72,0,0,1-1.7,0l-2.6-1.5a3,3,0,0,0-2.6,0,.88.88,0,0,0-.5,1,1.21,1.21,0,0,0,.5.5Zm8.5,5.1a7.42,7.42,0,0,0,6.8,0c1.4-.8,1.7-2,1.1-3-.4-.6-1.1-1.7-1.4-2.3a.57.57,0,0,1,.2-.7h.1a1.72,1.72,0,0,1,1.7,0l2.6,1.5a3,3,0,0,0,2.6,0,.83.83,0,0,0,.5-1,1.21,1.21,0,0,0-.5-.5L125,94.7a7.42,7.42,0,0,0-6.8,0c-1.4.8-1.8,2-1.1,3,.4.6,1.1,1.7,1.4,2.3a.57.57,0,0,1-.2.7h-.1a1.72,1.72,0,0,1-1.7,0l-2.6-1.5a3,3,0,0,0-2.6,0,.83.83,0,0,0-.5,1,1.21,1.21,0,0,0,.5.5Z"/>
-                                            <path class="svg-product__block-storage-st17" d="M122.4,123.3a3.42,3.42,0,0,1-2.8,0c-.8-.4-.8-1,0-1.4a3.42,3.42,0,0,1,2.8,0C123.2,122.2,123.2,122.9,122.4,123.3Zm-42-23a3.42,3.42,0,0,1-2.8,0c-.8-.4-.8-1,0-1.4a3.42,3.42,0,0,1,2.8,0C81.2,99.2,81.2,99.9,80.4,100.3Zm83,0a3.42,3.42,0,0,1-2.8,0c-.8-.4-.8-1,0-1.4a3.42,3.42,0,0,1,2.8,0C164.2,99.2,164.2,99.9,163.4,100.3Zm-41-23a3.42,3.42,0,0,1-2.8,0c-.8-.4-.8-1,0-1.4a3.42,3.42,0,0,1,2.8,0C123.2,76.2,123.2,76.9,122.4,77.3Z"/>
-                                        </g>
-                                        <path class="svg-product__block-storage-st11" d="M159.7,116.5a.48.48,0,0,1-.7,0,.6.6,0,0,1-.1-.4,1.56,1.56,0,0,1,.8-1.3l5.8-3.3a.48.48,0,0,1,.7,0,.6.6,0,0,1,.1.4,1.56,1.56,0,0,1-.8,1.3Zm59.4-37a.48.48,0,0,1-.7,0,.6.6,0,0,1-.1-.4,1.56,1.56,0,0,1,.8-1.3l5.8-3.3a.48.48,0,0,1,.7,0,.6.6,0,0,1,.1.4,1.56,1.56,0,0,1-.8,1.3Z"/>
-                                    </g>
-                                    <defs>
-                                        <style>
-                                            .svg-product__block-storage-st11 {
-                                                isolation: isolate;
-                                            }
-                                            .svg-product__block-storage-st16 {
-                                                fill: #fff;
-                                            }
-                                            .svg-product__block-storage-st10 {
-                                                fill: url(#svg-gradient__dark-middle-2);
-                                            }
-                                            .svg-product__block-storage-st11 {
-                                                fill: #292e47;
-                                                opacity: 0.7;
-                                            }
-                                            .svg-product__block-storage-st12 {
-                                                fill: url(#svg-gradient__dark-top-light);
-                                            }
-                                            .svg-product__block-storage-st13 {
-                                                fill: url(#svg-gradient__blue-middle-cls13);
-                                            }
-                                            .svg-product__block-storage-st14 {
-                                                fill: #162f7e;
-                                            }
-                                            .svg-product__block-storage-st15 {
-                                                fill: url(#svg-gradient__blue-top-light-cls15);
-                                            }
-                                            .svg-product__block-storage-st17 {
-                                                fill: #e6e6e6;
-                                            }
-                                        </style>
-                                        <linearGradient id="svg-gradient__gray-middle" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#CAD1E0"/>
-                                            <stop  offset="0.46" style="stop-color:#BEC5D8"/>
-                                            <stop  offset="0.54" style="stop-color:#D4D9E6"/>
-                                            <stop  offset="1" style="stop-color:#E4E7F0"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-dark" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#99A1BE"/>
-                                            <stop  offset="1" style="stop-color:#B3BACF"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-top-light" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop  offset="0" style="stop-color:#EAEDF6"/>
-                                            <stop  offset="1" style="stop-color:#F6F8FE"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__gray-shadow" x1="122.26" y1="-395.29" x2="122.26" y2="-520.94" gradientTransform="matrix(1, 0, 0, -1, 0, -278)" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0" stop-color="#13151e" stop-opacity="0"/>
-                                            <stop offset="1" stop-color="#131532"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-top-dark" gradientUnits="userSpaceOnUse" x1="12" y1="419.9333" x2="232" y2="419.9333" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop  offset="5.139655e-03" style="stop-color:#3F4B75"/>
-                                            <stop  offset="1" style="stop-color:#636F99"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-top-light" gradientUnits="userSpaceOnUse" x1="41.6969" y1="400.85" x2="200.8531" y2="400.85" gradientTransform="matrix(1 0 0 1 0 -356)">
-                                            <stop  offset="0" style="stop-color:#5B6791"/>
-                                            <stop  offset="1" style="stop-color:#69759F"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-middle" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-2" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0.01" stop-color="#353d6c"/>
-                                            <stop offset="1" stop-color="#575f8e"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__dark-middle" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0" stop-color="#373f6e"/>
-                                            <stop offset="1" stop-color="#5a6291"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__dark-middle-2" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="100%" y2="0%">
-                                            <stop offset="0.01" stop-color="#353d6c"/>
-                                            <stop offset="1" stop-color="#575f8e"/>
-                                        </linearGradient>
-                                                <linearGradient id="svg-gradient__blue-middle" gradientUnits="userSpaceOnUse" x1="2.398682e-02" y1="191.1406" x2="181.9869" y2="191.1406">
-                                            <stop  offset="0" style="stop-color:#1D53DA"/>
-                                            <stop  offset="1" style="stop-color:#3F75FC"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-dark" gradientUnits="userSpaceOnUse" x1="5.257527e-03" y1="150.01" x2="182.0152" y2="150.01">
-                                            <stop  offset="0" style="stop-color:#0B3EBF"/>
-                                            <stop  offset="1" style="stop-color:#2E5FDB"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-top-light" gradientUnits="userSpaceOnUse" x1="44.2653" y1="111.2336" x2="137.7526" y2="17.7463">
-                                            <stop  offset="0" style="stop-color:#0397F6"/>
-                                            <stop  offset="1" style="stop-color:#00BAFF"/>
-                                        </linearGradient>
-                                        <linearGradient id="svg-gradient__blue-middle-cls13" x1="72.02" y1="477.11" x2="169.12" y2="477.11" xlink:href="#svg-gradient__blue-middle"/>
-                                        <linearGradient id="svg-gradient__blue-top-light-cls15" x1="72" y1="455.55" x2="169.1" y2="455.55" xlink:href="#svg-gradient__blue-top-light"/>
-                                </svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 772.24 750" style="width: 85px;"><defs><style>.cls-1{fill:none;stroke-width:13px;}.cls-1,.cls-2{stroke:#007bfc;stroke-miterlimit:10;}.cls-2{font-size:257px;fill:#007bfc;stroke-width:0.75px;font-family:NiagaraSolid-Reg, Niagara Solid;}</style></defs><title>Asset 2</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><ellipse class="cls-1" cx="386.12" cy="375" rx="379.62" ry="368.5"></ellipse><ellipse class="cls-1" cx="386.12" cy="375" rx="344.29" ry="334.21"></ellipse><text class="cls-2" transform="translate(164.76 349.06)">Coming<tspan x="77.43" y="220">Soon</tspan></text></g></g></svg>
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
@@ -544,7 +136,7 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools">
                             <div class="feature__icon">
-                                <img src="{{asset('dist/img/all-tools.png')}}">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="661pt" viewBox="-20 -40 661.33331 661" width="661pt" fill="#007bfc"><path d="m10 248.832031h55.476562c3.28125 11.832031 8.007813 23.214844 14.085938 33.882813l-39.265625 39.25c-1.875 1.875-2.929687 4.417968-2.929687 7.074218s1.054687 5.199219 2.929687 7.074219l42.421875 42.433594c3.90625 3.898437 10.234375 3.898437 14.140625 0l39.269531-39.273437c10.667969 6.074218 22.039063 10.804687 33.871094 14.082031v55.476562c0 5.523438 4.476562 10 10 10h60c5.523438 0 10-4.476562 10-10v-55.476562c11.832031-3.277344 23.203125-8.007813 33.871094-14.082031l39.269531 39.273437c3.96875 3.75 10.175781 3.75 14.140625 0l42.429688-42.433594c1.875-1.875 2.929687-4.417969 2.929687-7.074219s-1.054687-5.199218-2.929687-7.074218l-39.273438-39.25c6.078125-10.667969 10.804688-22.050782 14.085938-33.882813h55.476562c5.523438 0 10-4.476562 10-10v-60c0-5.519531-4.476562-10-10-10h-55.476562c-3.28125-11.828125-8.007813-23.210937-14.085938-33.878906l39.265625-39.25c1.875-1.875 2.929687-4.417969 2.929687-7.074219s-1.054687-5.199218-2.929687-7.074218l-42.421875-42.433594c-3.90625-3.902344-10.234375-3.902344-14.140625 0l-39.269531 39.273437c-10.667969-6.070312-22.042969-10.800781-33.871094-14.082031v-55.480469c0-5.519531-4.476562-10-10-10h-60c-5.523438 0-10 4.480469-10 10v55.480469c-11.828125 3.28125-23.203125 8.011719-33.871094 14.082031l-39.269531-39.273437c-3.96875-3.75-10.175781-3.75-14.140625 0l-42.429688 42.433594c-1.875 1.875-2.929687 4.417968-2.929687 7.074218s1.054687 5.199219 2.929687 7.074219l39.273438 39.25c-6.078125 10.667969-10.804688 22.050781-14.085938 33.878906h-55.476562c-5.523438 0-10 4.480469-10 10v60c0 5.523438 4.476562 10 10 10zm10-60h53.300781c4.699219 0 8.765625-3.269531 9.769531-7.859375 3.28125-14.976562 9.214844-29.25 17.519532-42.140625 2.535156-3.953125 1.972656-9.144531-1.351563-12.46875l-37.738281-37.738281 28.289062-28.292969 37.730469 37.738281c3.324219 3.332032 8.519531 3.894532 12.480469 1.355469 12.894531-8.300781 27.164062-14.234375 42.140625-17.519531 4.585937-1.007812 7.859375-5.074219 7.859375-9.773438v-53.300781h40v53.300781c0 4.699219 3.273438 8.765626 7.859375 9.773438 14.976563 3.285156 29.246094 9.21875 42.140625 17.519531 3.960938 2.539063 9.15625 1.976563 12.480469-1.355469l37.730469-37.738281 28.28125 28.292969-37.730469 37.726562c-3.332031 3.328126-3.890625 8.523438-1.351563 12.480469 8.304688 12.898438 14.230469 27.167969 17.507813 42.148438 1.007812 4.589843 5.074219 7.863281 9.769531 7.863281h53.3125v40h-53.3125c-4.695312 0-8.761719 3.269531-9.769531 7.859375-3.277344 14.976563-9.207031 29.246094-17.507813 42.128906-2.535156 3.957031-1.972656 9.148438 1.351563 12.472657l37.738281 37.730468-28.289062 28.300782-37.730469-37.742188c-3.324219-3.328125-8.519531-3.890625-12.480469-1.351562-12.886719 8.304687-27.152344 14.238281-42.128906 17.519531-4.59375 1-7.871094 5.070312-7.871094 9.769531v53.300781h-40v-53.300781c0-4.699219-3.277344-8.769531-7.871094-9.769531-14.976562-3.28125-29.242187-9.214844-42.128906-17.519531-3.960938-2.539063-9.15625-1.976563-12.480469 1.351562l-37.730469 37.742188-28.28125-28.292969 37.730469-37.730469c3.332031-3.324219 3.890625-8.519531 1.351563-12.480469-8.304688-12.894531-14.238282-27.167969-17.519532-42.148437-1.007812-4.589844-5.070312-7.851563-9.769531-7.851563h-53.300781zm0 0"/><path d="m210 288.832031c44.183594 0 80-35.8125 80-80 0-44.183593-35.816406-80-80-80s-80 35.816407-80 80c.046875 44.160157 35.839844 79.953125 80 80zm0-140c33.132812 0 60 26.867188 60 60 0 33.136719-26.867188 60-60 60s-60-26.863281-60-60c.035156-33.125 26.875-59.964843 60-60zm0 0"/><path d="m210 318.832031c60.75 0 110-49.246093 110-110 0-60.75-49.25-110-110-110s-110 49.25-110 110c.074219 60.722657 49.277344 109.929688 110 110zm0-200c49.707031 0 90 40.292969 90 90s-40.292969 90-90 90-90-40.292969-90-90c.054688-49.679687 40.316406-89.945312 90-90zm0 0"/><path d="m570 458.832031v-80c0-5.519531-4.476562-10-10-10h-20v-80c0-5.519531-4.476562-10-10-10h-90c-5.523438 0-10 4.480469-10 10v80h-50c-5.523438 0-10 4.480469-10 10v80h-320c-27.601562.035157-49.9648438 22.398438-50 50v20c.0351562 27.605469 22.398438 49.96875 50 50h520c27.601562-.03125 49.964844-22.394531 50-50v-20c-.035156-27.601562-22.398438-49.964843-50-50zm-20 0h-70v-70h70zm-100-160h70v70h-70zm-60 90h70v70h-70zm210 140c0 16.570313-13.433594 30-30 30h-520c-16.566406 0-30-13.429687-30-30v-20c0-16.566406 13.433594-30 30-30h520c16.566406 0 30 13.433594 30 30zm0 0"/><path d="m310 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/><path d="m210 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/><path d="m410 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/><path d="m110 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/><path d="m510 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/></svg>
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">

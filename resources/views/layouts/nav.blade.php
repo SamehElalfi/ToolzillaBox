@@ -1,7 +1,8 @@
 <div data-site-navbar="" class="site-navbar navbar navbar--h navbar--main navbar--main ">
 	<div class="container">
 		<a class="navbar__brand brand" href="/" data-logo="">
-			<div class="brand__logo text-white p-1" style="font-size: 30px;">ToolzillaBox
+			<div class="brand__logo" style="font-size: 30px;">
+				<img src="/dist/img/logo.png" style="width: 200px;">
 			</div>
 			<div class="brand__favicon">
 				<img src="/dist/img/brand/favicon.svg" alt="toolzillabox">
@@ -15,6 +16,11 @@
 		<nav class="navbar__menu" data-main-menu="">
 			<ul class="navbar__nav nav nav--h nav--main-menu sf-js-enabled sf-arrows" data-nav="" data-options="openOn: hover;" style="touch-action: auto;">
 				<li class="nav__item">
+					<a class="nav__link" href="/">
+						<span class="nav__link-text">Home</span>
+					</a>
+				</li>
+				<li class="nav__item">
 					{{--<a class="nav__link" href="/tools" style="background-color: #db0000fa; box-shadow: 0 0 17px -7px #db0000fa; border-radius: 5px;">--}}
 					<a class="nav__link" href="/tools">
 						<span class="nav__link-text">Our Tools</span>
@@ -27,7 +33,7 @@
 				</li>
 				<li class="nav__item">
 					{{--<a class="nav__link"  id="donate-btn" href="/donate" style="background-color: #FFC107; box-shadow: 0 0 17px -7px #FFC107; border-radius: 5px;">--}}
-					<a class="nav__link"  id="donate-btn" href="https://www.patreon.com/user?u=32591056&fan_landing=true">
+					<a class="nav__link"  id="donate-btn" href="https://www.patreon.com/toolzillabox?fan_landing=true">
 						<span class="nav__link-text">Donate{{--<span style="margin: 0 0 0 10px;">❤️</span></span>--}}
 					</a>
 				</li>

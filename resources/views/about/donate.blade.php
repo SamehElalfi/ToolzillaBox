@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('full_title', 'About ToolzillaBox')
+@section('title', 'Donate')
 @section('content')
     <div class="small-header">
         @include('layouts.header',
