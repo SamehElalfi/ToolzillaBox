@@ -7,7 +7,7 @@
 				<div class="col-lg-6 order-4 order-lg-first">
 					<div class="row row--mob-sm tiles">
 						<div class="col-12">
-							<a href="/blog/" class="tile">
+							<a href="/blog/what-is-toolzilla-box/" class="tile">
 								<div class="tile__icon i-c-8x mob-i-c-5x">
 									<svg class="icon-sm icon-sm--64" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 64 64">
 										<path class="fill-gradient stroke-gradient" d="M35.9,6.3v1.9l-13.4,7.3c-1.3,1.3-3,3.7-3,5l-0.7,28.2l-6.1,3.4c-0.7,0.4-1.5,0.5-2.3,0.2c-0.8-0.3-0.9-1-0.9-2.2V14.9c0-2.2,1.1-4.2,2.9-5.4l14.4-8.3l1.1-0.6l0,0L36,5.6C36,5.6,35.9,6.3,35.9,6.3z"></path>
@@ -44,13 +44,13 @@
 				<div class="col-lg-6">
 					<a href="/blog/" class="widget widget--last-post m-b-0x has-hover">
 						<div class="widget__media">
-							<img src="{{asset('/dist/img/json-cover.png')}}" alt="">
+							<img src="{{asset('/dist/img/blog-section.png')}}" alt="">
 						</div>
 						<div class="widget__body">
 							<div class="widget__content">
-								<h3 class="widget__title h5">What are JSON file and JSON format and examples - toolzillabox</h3>
+								<h3 class="widget__title h5">Best Site That Provides the Best Free Online Tools - ToolzillaBox</h3>
 								<p class="widget__desc p-3">
-									Every developer uses a REST API once at least, but like every API, it sends the data in JavaScript Object Notation and that we call JSON code....
+									Why ToolzillaBox is good For every internet user, in this article we will talk about why online tools are very important ...
 									<span class="is-link">Read More</span>
 								</p>
 							</div>

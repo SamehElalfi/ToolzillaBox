@@ -5,7 +5,7 @@
         @include('layouts.header',
             [
                 'header_title' => 'Privacy policy',
-                'header_paragraph' => 'Last updated: April 01, 2020'
+                'header_paragraph' => 'Last updated: April 03, 2020'
             ]
         )
     </div>
@@ -21,7 +21,7 @@
                                 <h1 class="section__title h2">Privacy Policy</h1>
                                 <div class="section__desc text-left">
                                     <p class="tile__info p-2">
-                                        Last updated: April 01, 2020
+                                        Last updated: April 03, 2020
                                     </p>
                                     <p class="tile__info p-2">
                                         This privacy policy attempts to outline how ToolzillaBox websites collect and use information from their users.

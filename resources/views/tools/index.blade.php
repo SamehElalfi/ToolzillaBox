@@ -25,7 +25,7 @@
                 'title'=>'JSON Formatter',
                 'link'=>'http://toolzillabox.com/tools/jsonformatter',
                 'img'=>'dist/img/tools/json-formatter.png',
-                'description'=>'Formate and Validate you JSON Code'
+                'description'=>'Formate and Validate your JSON Code'
             ]
         ]
     ])
@@ -37,7 +37,7 @@
                 'title'=>'Password Generator',
                 'link'=>'https://toolzillabox.com/tools/passwordgenerator',
                 'img'=>'dist/img/tools/password-generator.png',
-                'description'=>'Generate Secure, Strong and long Passwords'
+                'description'=>'Generate Secure, Strong and random Passwords'
             ]
         ]
     ])

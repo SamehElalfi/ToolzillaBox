@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="banner__content">
 			<h1 class="banner__title">{{$header_title ?? ''}}</h1>
-			<p class="banner__desc is-hidden-md-down">{{$header_paragraph ?? ''}}</p>
+			<p class="banner__desc text-transparent-md-down">{{$header_paragraph ?? ''}}</p>
 		</div>
 	</div>
 	<div class="banner__background">

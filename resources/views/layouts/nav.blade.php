@@ -1,7 +1,7 @@
 <div data-site-navbar="" class="site-navbar navbar navbar--h navbar--main navbar--main ">
 	<div class="container">
 		<a class="navbar__brand brand" href="/" data-logo="">
-			<div class="brand__logo" style="font-size: 30px;">
+			<div class="brand__logo">
 				<img src="/dist/img/logo.png" style="width: 200px;">
 			</div>
 			<div class="brand__favicon">

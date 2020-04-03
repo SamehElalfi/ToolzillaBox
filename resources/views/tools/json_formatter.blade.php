@@ -272,9 +272,10 @@
     </section>
     <textarea id="t" style="width:0;height:0;"></textarea>
 
-    @include('layouts.about_tool', ['about_title'=>'About JSON Formatter?', 'about_text'=>'Online Json formatter & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms.'])
+    @include('layouts.about_tool', ['about_title'=>'About JSON Formatter?', 'about_text'=>'Online Json formatter & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms. <a href="/blog/what-are-json-file-and-json-format-and-examples/#Why_this_tool?">Learn More</a>'])
 
     @include('layouts.usage', [
+        'article' => "Learn how to use this tool with more tricks from <a href='/blog/what-are-json-file-and-json-format-and-examples/#Why_this_tool?'>this article.</a>",
         'questions'=>[
             [
                 'q'=>'What can you do with JSON Viewer?',

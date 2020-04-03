@@ -5,7 +5,7 @@
         @include('layouts.header',
             [
                 'header_title' => 'Cookies Policy',
-                'header_paragraph' => 'Last updated: April 01, 2020'
+                'header_paragraph' => 'Last updated: April 03, 2020'
             ]
         )
     </div>
@@ -21,7 +21,7 @@
                                 <h1 class="section__title h2">Cookies Policy</h1>
                                 <div class="section__desc text-left">
                                     <p class="tile__info p-2">
-                                        Last updated: April 01, 2020
+                                        Last updated: April 03, 2020
                                     </p>
                                     <p class="tile__info p-2">
                                         This Cookies Policy explains what Cookies are and how We use them. You should read this policy so You can understand what type of cookies We use, or the information We collect using Cookies and how that information is used. This Cookies Policy has been created with the help of Cookies Policy Generator.

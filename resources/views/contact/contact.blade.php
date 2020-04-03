@@ -26,27 +26,16 @@
 
                                     <input type="hidden" name="previous_url" value="{{ url()->previous() }}">
 
-                                    <div class="row row--sm">
                                         
-                                        {{-- First Name Input --}}
-                                        <div class="col-sm-6 form-group">
-                                            <label class="form-label">First Name</label>
-                                            <input type="text" name="fname" value="{{ old('fname')}}" class="form-control form-control--lg" maxlength='255' required>
-                                            @if ($errors->has('fname'))
-                                                <span class="text-danger">{{ $errors->first('fname') }}</span>
-                                            @endif
-                                        </div>
-
-                                        {{-- Last Name Input --}}
-                                        <div class="col-sm-6 form-group">
-                                            <label class="form-label">Last Name</label>
-                                            <input type="text" name="lname" value="{{ old('lname')}}" class="form-control form-control--lg" maxlength='255'>
-                                            @if ($errors->has('lname'))
-                                                <span class="text-danger">{{ $errors->first('lname') }}</span>
-                                            @endif
-                                        </div>
-
+                                    {{-- Name Input --}}
+                                    <div class="form-group">
+                                        <label class="form-label">Name</label>
+                                        <input type="text" name="fname" value="{{ old('fname')}}" class="form-control form-control--lg" maxlength='255' required>
+                                        @if ($errors->has('fname'))
+                                            <span class="text-danger">{{ $errors->first('fname') }}</span>
+                                        @endif
                                     </div>
+
 
                                     {{-- Email Input --}}
                                     <div class="form-group">
@@ -54,15 +43,6 @@
                                         <input type="email" name="email" value="{{ old('email')}}" class="form-control form-control--lg" maxlength='255' required>
                                         @if ($errors->has('email'))
                                             <span class="text-danger">{{ $errors->first('email') }}</span>
-                                        @endif
-                                    </div>
-
-                                    {{-- Subject Input --}}
-                                    <div class="form-group">
-                                        <label class="form-label">Subject</label>
-                                        <input type="text" data-name="subject" name="subject" value="{{ old('subject')}}" class="form-control form-control--lg" maxlength='255'>
-                                        @if ($errors->has('subject'))
-                                            <span class="text-danger">{{ $errors->first('subject') }}</span>
                                         @endif
                                     </div>
 

@@ -273,9 +273,11 @@
         </div>
     </section>
 
-    @include('layouts.about_tool', ['about_title'=>'About Password Generator?', 'about_text'=>'The password generator is a tool to generate Strong random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers. To know more about passwords and how to protect yourself from hackers read our guide "Best guide To Create A Strong and secure Password in 2020"'])
+    @include('layouts.about_tool', ['about_title'=>'About Password Generator?', 'about_text'=>'The password generator is a tool to generate Strong random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers. To know more about passwords and how to protect yourself from hackers read our guide <a href="/blog/best-guide-to-create-a-strong-and-secure-password-in-2020/#Explain_the_password_generator_tool">"Best guide To Create A Strong and secure Password in 2020"</a>'])
 
-    @include('layouts.usage', ['questions'=>[
+    @include('layouts.usage', [
+        'article' => 'Learn how to use this tool with tricks from <a href="/blog/best-guide-to-create-a-strong-and-secure-password-in-2020/#Explain_the_password_generator_tool">this article</a>.',
+        'questions'=>[
         [
             'q'=>'What is a password generator tool?',
             'answer'=>'It\'s a tool to generate Strong and random and secure Passwords from numbers and capital & small letters and Symbols to help you secure your accounts from hackers.'
@@ -286,7 +288,7 @@
         ],
         [
             'q'=>'How I can make my password secure and strong?',
-            'answer'=>'You can read our article <a href="#">Best guide To Create A Strong and secure Password  in 2020 - toolzillabox</a>'
+            'answer'=>'You can read our article <a href="/blog/best-guide-to-create-a-strong-and-secure-password-in-2020/#Explain_the_password_generator_tool">Best guide To Create A Strong and secure Password  in 2020 - toolzillabox</a>'
         ],
 ]])
 

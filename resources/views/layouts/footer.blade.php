@@ -30,7 +30,7 @@
 					</ul>
 				</div>
 				<div class="footer__column col-md-6 is-open">
-					<h3 class="footer__title h6" data-toggle="footer-column" data-url="/resources">
+					<h3 class="footer__title h6" data-toggle="footer-column">
 						Subscribe to our newsletter
 					</h3>
 					<div class="footer__nav nav">
@@ -69,6 +69,9 @@
 				</li>
 				<li class="nav__item">
 					<a class="nav__link" href="/legal/cookie_policy/">Cookie Policy</a>
+				</li>
+				<li class="nav__item">
+					<a class="nav__link" href="/faq/">FAQ</a>
 				</li>
 			</div>
 		</div>

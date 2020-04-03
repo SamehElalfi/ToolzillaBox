@@ -4,7 +4,7 @@
 
 <section class="section" id="{{ Str::camel($section_title) }}">
     <div class="container ">
-        <div class="top__toolbar" style=" float: right;">
+        <div class="top__toolbar justify-content-center" style="margin-bottom: 30px;">
             <a class="btn btn--default btn--xs btn--link" href="#apps">
                 <i class="btn__icon">
                     <svg class="icon-ui icon-ui--18 " xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">

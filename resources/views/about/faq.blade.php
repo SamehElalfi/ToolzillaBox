@@ -5,7 +5,7 @@
         @include('layouts.header',
             [
                 'header_title' => 'FAQ',
-                'header_paragraph' => 'Last updated: April 01, 2020'
+                'header_paragraph' => 'Last updated: April 03, 2020'
             ]
         )
     </div>
@@ -15,7 +15,7 @@
             <div class="m-w-xl">		
                 <div class="resources__content article">
                     <div id="faq-bill" class="resources__section">
-                        <div class="resources__header top" style="margin: -8px 0 48px -90px;">
+                        <div class="resources__header top">
                             <div class="top__icon i-c i-c-6x align-self-start">
                                 <svg class="icon-sm" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 48 48">
                                     <polygon class="fill-gradient stroke-gradient" points="47.5,33.7 42.5,33.7 42.5,36.5 36.5,36.5 36.5,40.5 30.6,40.5 30.6,43.5 25.4,43.5 0.6,29.3 6.1,26 11.6,25.9 27,34.5 40.1,26.5 47.5,30.8"></polygon>
@@ -29,7 +29,7 @@
                             </div>
                             <div class="top__content">
                                 <h2 class="top__title">Most asked questions about ToolzillaBox</h2>
-                                <p class="top__desc p3 text-faded">You always can ask more questions in Contact Us page.</p>
+                                <p class="top__desc p3 text-faded">You always can ask more questions in <a href="/contact">Contact Us page</a>.</p>
                             </div>
                         </div>
                         <div class="list-group list-group--collapse list-group--simple list-group--collapse-simple">

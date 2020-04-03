@@ -1,8 +1,8 @@
 <section class="section" id="donate">
 	<div class="container ">
-		<h2 class="section__title ">Help us to improve our process</h2>
+		<h2 class="section__title ">Help us to make more free online tools</h2>
 		<p class="section__desc">
-			We can't still exist without your help. Donate for Toolzillabox on Patreon. This will make us create more free online tools. Thank You! ❤️
+			We can't still exist without your help. Donate for ToolzillaBox on Patreon. This will make us create more free online tools. Thank You! ❤️
 		</p>
 		<div class="section__actions text-center  ">
 			<a class="btn btn--primary btn--outline" href="https://www.patreon.com/toolzillabox?fan_landing=true">Donate on Patreon</a>

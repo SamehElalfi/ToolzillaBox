@@ -9,6 +9,8 @@
 	@else
 		<title>ToolzillaBox</title>
 	@endif
+	
+	<meta http-equiv="expires" content="sat, 02 jun 2020 00:00:00 GMT"/>
     <meta name="keywords" content="@yield('keywords')">
     <meta name="description" content="@yield('description')">
 

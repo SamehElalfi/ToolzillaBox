@@ -12,7 +12,11 @@
             </div>
             <div class="top__content">
                 <h2 class="top__title">How to use this tool?</h2>
-                <p class="top__desc p3 text-faded">Learn how to use this tool and its tricks.</p>
+                @isset($article)
+                    <p class="top__desc p3 text-faded">{!! $article ?? "Learn how to use this tool and its tricks."!!}</p>
+                @else
+                    <p class="top__desc p3 text-faded">Learn how to use this tool and its tricks.</p>
+                @endisset
             </div>
         </div>
         <div class="list-group list-group--collapse list-group--simple list-group--collapse-simple">
