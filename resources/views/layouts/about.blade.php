@@ -16,8 +16,8 @@
 						<div class="row tiles">
 							<div class="col-md-6">
 								<div class="tile tile--info">
-									<div class="tile__value h2 font-weight-light">30+</div>
-									<h3 class="tile__title h6">Online Tools</h3>
+									<div class="tile__value h2 font-weight-light">2+</div>
+									<h3 class="tile__title h6">Free Online Tools</h3>
 									<p class="tile__info p-3">
 										We've been working together for years! Use our online tools right now!</p>
 								</div>
@@ -26,7 +26,7 @@
 							<div class="col-md-6">
 								<div class="tile tile--info">
 									<div class="tile__value h2 font-weight-light">20k+</div>
-									<h3 class="tile__title h6">Unique Customers</h3>
+									<h3 class="tile__title h6">Customers</h3>
 									<p class="tile__info p-3">
 										Our customers come from 150+ countries around the globe and countless cities. ToolzillaBox's global footprint spans far and wide!
 									</p>

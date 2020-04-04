@@ -8,17 +8,12 @@ Our goal is to provide online free tools to help content creators, brands, SEOs,
 
 
 ## Log
-- added images to tools.
-- added Home page to navbar.
-- added the new logo.
-- added coming soon icons.
-- removed all soon page links.
-- removed full_title option from layouts.app
-
+- Change numbers in about section
+- removed icons names to "coming soon"
 
 ## To-Do
 - ~~ Fix the home page on the mobile/tablet versions ~~
 - ~~ build the all tools page ~~
 - ~~ build the page of the tool itself ~~
-- build support page (e.g. About Us, Cookies Privacy, etc)
+- ~~ build support page (e.g. About Us, Cookies Privacy, etc) ~~
 - install Admin LTE 3 dashboard

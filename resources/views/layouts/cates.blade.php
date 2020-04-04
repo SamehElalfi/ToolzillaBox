@@ -54,7 +54,7 @@
                 </span>
             </a>
         </div>
-        <div class="col-lg-2 col-md-3 col-6" data-groups="['other']">
+        <div class="col-lg-2 col-md-3 col-6" data-groups="['securityTools']">
             <a class="application" href="/tools#securityTools">
                 <div class="application__icon">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 494.545 494.545" style="enable-background:new 0 0 494.545 494.545;width: 60%;" xml:space="preserve" fill="#007bfc">
@@ -115,7 +115,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">Drupal</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -135,7 +135,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">GitLab</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -155,7 +155,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">Joomla</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -175,7 +175,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">LAMP</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -195,7 +195,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">LEMP</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -215,7 +215,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">Magento</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -235,7 +235,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">MediaWiki</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -255,7 +255,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">Minecraft</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -275,7 +275,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">Nextcloud</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
@@ -295,7 +295,7 @@
                     <img src="{{ asset('dist/img/coming-soon.png') }}">
                 </div>
                 <div class="application__title">
-                    <span class="application__title-text">OpenLiteSpeed</span>
+                    <span class="application__title-text">Coming Soon</span>
                     <span class="application__title-hovertext">Coming Soon</span>
                 </div>
                 <span class="application__hover">
