@@ -86,10 +86,10 @@
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
-                                    Encryption Tools
+                                    Coming Soon
                                 </h3>
                                 <p class="feature__desc">
-                                    Fully automated tools with 100% of success.
+                                    More tools will be available soon.
                                 </p>
                                 <div class="feature__actions">
                                     <span class="btn  btn--primary btn--link btn--block">
