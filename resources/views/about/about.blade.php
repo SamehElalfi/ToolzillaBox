@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 @section('title', 'About')
 @section('content')
     <div class="small-header">
@@ -44,9 +44,9 @@
                                 <div class="col-md-6">
                                     <div class="tile tile--info">
                                         <div class="tile__value h2 font-weight-light">20k+</div>
-                                        <h3 class="tile__title h6">Customers</h3>
+                                        <h3 class="tile__title h6">Visitors</h3>
                                         <p class="tile__info p-3">
-                                            Our customers come from 150+ countries around the globe and countless cities. ToolzillaBox's global footprint spans far and wide!
+                                            Our visitors come from 150+ countries around the globe and countless cities. ToolzillaBox's global footprint spans far and wide!
                                         </p>
                                     </div>
                                 </div>

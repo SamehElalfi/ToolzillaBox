@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 
-Route::middleware('throttle:5|1,1')->group(function () {
+Route::middleware('throttle:60|1,1')->group(function () {
     Route::get('/', function () {
         return view('index');
     });
@@ -65,3 +65,22 @@ Route::middleware('throttle:5|1,1')->group(function () {
 Route::middleware('throttle:3|3600,1')->group(function () {
     Route::post('/mail', 'MailController@storeMail');
 });
+
+/**
+ * All Dashboard Routes
+ */
+// Login and Register Routes
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::group(['middleware' => 'auth'], function () {
+	Route::resource('user', 'UserController', ['except' => ['show']]);
+	Route::get('profile', ['as' => 'profile.edit', 'uses' => 'ProfileController@edit']);
+	Route::put('profile', ['as' => 'profile.update', 'uses' => 'ProfileController@update']);
+	Route::put('profile/password', ['as' => 'profile.password', 'uses' => 'ProfileController@password']);
+    
+	Route::post('pages/active/{id}', 'PageController@activate');
+    Route::resource('pages', 'PageController');
+});
+

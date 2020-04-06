@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 
 @section('title', 'Contact')
 @section('description', 'Online Json formatter & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms.')
@@ -68,7 +68,7 @@
                                     <div class="contact__body">
                                         <div class="contact__desc">
                                             You can get in touch with ToolzillaBox using this form.<br><br>
-                                            Or you can find ToolzillaBox on <a href='https://www.facebook.com/toolzillabox'>Facebook</a><br><br>
+                                            Or you can find ToolzillaBox on <a href='https://www.facebook.com/toolzillabox'>Facebook</a> and <a href='https://www.twitter.com/toolzillabox'>Twitter</a><br><br>
                                             If you have any suggestions feel free contact us.
                                         </div>
                                     </div>

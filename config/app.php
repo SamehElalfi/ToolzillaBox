@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'ToolzillaBox'),
 
     /*
     |--------------------------------------------------------------------------
@@ -165,6 +165,9 @@ return [
         /*
          * Package Service Providers...
          */
+        // Barryvdh\Debugbar\ServiceProvider::class,
+        Spatie\Permission\PermissionServiceProvider::class,
+        LaravelFrontendPresets\ArgonPreset\ArgonPresetServiceProvider::class,
 
         /*
          * Application Service Providers...
@@ -174,7 +177,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+        
     ],
 
     /*

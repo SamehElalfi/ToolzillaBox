@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 
 @section('title', 'Tools')
 
@@ -23,7 +23,7 @@
         'tools' => [
             [
                 'title'=>'JSON Formatter',
-                'link'=>'http://toolzillabox.com/tools/jsonformatter',
+                'link'=>'/tools/jsonformatter',
                 'img'=>'dist/img/tools/json-formatter.png',
                 'description'=>'Formate and Validate your JSON Code'
             ]
@@ -35,7 +35,7 @@
         'tools' => [
             [
                 'title'=>'Password Generator',
-                'link'=>'https://toolzillabox.com/tools/passwordgenerator',
+                'link'=>'/tools/passwordgenerator',
                 'img'=>'dist/img/tools/password-generator.png',
                 'description'=>'Generate Secure, Strong and random Passwords'
             ]

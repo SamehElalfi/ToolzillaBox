@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 @section('title', 'Cookies Policy')
 @section('content')
     <div class="small-header">

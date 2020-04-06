@@ -34,15 +34,15 @@
 						Subscribe to our newsletter
 					</h3>
 					<div class="footer__nav nav">
-						<form method="post" action="/mail" class="rail">
+						<form method="post" action="https://toolzillabox.us19.list-manage.com/subscribe/post?u=12e818dab18ae1457e23013d2&amp;id=e132ec675b" class="rail validate" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
 							@csrf
 							<input name="previous_url" type="hidden" value="{{ url()->previous() }}">
 
 							<div class="input-group input-group--xlg" style="border-radius: 50px;width: 500px;">
-								<input name="email" type="email" required="" class="form-control form-control--xlg" placeholder="Email Address" style="border-radius: 50px;">
+								<input name="EMAIL" type="email" required="" id="mce-EMAIL" class="email form-control form-control--xlg" placeholder="Email Address" style="border-radius: 50px;">
 							</div>
 							<div class="rail__toolbar" style="position:absolute; right:10px; border-radius:50px;">
-								<input class="btn btn--primary btn--lg" type="submit" style="border-radius: 50px;" value="Subscribe">
+								<input name="subscribe" id="mc-embedded-subscribe" class="button btn btn--primary btn--lg" type="submit" value="Subscribe" style="border-radius: 50px;right: 0;">
 							</div>
 						</form>
 					</div>
@@ -72,6 +72,18 @@
 				</li>
 				<li class="nav__item">
 					<a class="nav__link" href="/faq/">FAQ</a>
+				</li>
+				<li class="nav__item">
+					<a class="nav__link" href="https://www.facebook.com/toolzillabox">
+						<i class="fa fa-facebook is-hidden-sm-down"></i>
+						<span class="is-hidden-md-up">Facebook</span>
+					</a>
+				</li>
+				<li class="nav__item">
+					<a class="nav__link" href="https://www.twitter.com/toolzillabox">
+						<i class="fa fa-twitter is-hidden-sm-down"></i>
+						<span class="is-hidden-md-up">Twitter</span>
+					</a>
 				</li>
 			</div>
 		</div>

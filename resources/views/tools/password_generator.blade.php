@@ -1,8 +1,10 @@
-@extends('layouts.app')
+@extends('layouts.main')
 
 @section('title', 'Password Generator')
 
 @section('description', 'Strong and random and secure Password generator tool creates passwords from Words and numbers and capital letters and small letters and Symbols to help you secure your device from hackers.')
+
+
 @section('content')
 
     @include('layouts.header')
@@ -13,7 +15,7 @@
                 <div class="section__content">
                     <div class="block block--boxed block--contact" id="contact">
                         <div class="block__body row">
-                            <h2 class="block__title h3">Password Generator</h2>
+                            <h1 class="block__title h3">Password Generator</h1>
                             <div class="box__alert alert alert--info alert--faded alert--xlg">
                                 <div class="alert__body h5">
                                     Donate for Toolzillabox on Patrion. This will make us happy. Thank You! ❤️
@@ -185,52 +187,52 @@
                                                 </select>
                                             </div>
                                         </div>
-                                        <div class="col-6 pull-left justify-content-center" id="password-options" style="border: 1px solid transparent;">
+                                        <div class="col-12 col-md-6 pull-left justify-content-center" id="password-options" style="border: 1px solid transparent;">
                                             <label class="form-label">Options</label>
                                             <div class="row">
 
-                                                <label class="col-12 label" style="background: transparent">
-                                                    <div class="toggle">
+                                                <label class="col-12 label row my-15" style="background: transparent">
+                                                    <div class="mw-50 toggle">
                                                         <input class="toggle-state" type="checkbox" name="check" value="check">
                                                         <div class="toggle-inner">
                                                             <div class="indicator"></div>
                                                         </div>
                                                         <div class="active-bg"></div>
                                                     </div>
-                                                    <div class="label-text">Capital Charachers (e.g. ABCDEF)</div>
+                                                    <div class="label-text col-9">Capital Charachers (e.g. ABCDEF)</div>
                                                 </label>
 
-                                                <label class="col-12 label" style="background: transparent">
-                                                    <div class="toggle">
+                                                <label class="col-12 label row my-15" style="background: transparent">
+                                                    <div class="mw-50 toggle">
                                                         <input class="toggle-state" type="checkbox" name="check" value="check" checked="true">
                                                         <div class="toggle-inner">
                                                             <div class="indicator"></div>
                                                         </div>
                                                         <div class="active-bg"></div>
                                                     </div>
-                                                    <div class="label-text">Small Charachers (e.g. abcdef)</div>
+                                                    <div class="label-text col-9">Small Charachers (e.g. abcdef)</div>
                                                 </label>
 
-                                                <label class="col-12 label" style="background: transparent">
-                                                    <div class="toggle">
+                                                <label class="col-12 label row my-15" style="background: transparent">
+                                                    <div class="mw-50 toggle">
                                                         <input class="toggle-state" type="checkbox" name="check" value="check" checked="true">
                                                         <div class="toggle-inner">
                                                             <div class="indicator"></div>
                                                         </div>
                                                         <div class="active-bg"></div>
                                                     </div>
-                                                    <div class="label-text">Numbers (e.g. 0123456)</div>
+                                                    <div class="label-text col-9">Numbers (e.g. 0123456)</div>
                                                 </label>
 
-                                                <label class="col-12 label" style="background: transparent">
-                                                    <div class="toggle">
+                                                <label class="col-12 label row my-15" style="background: transparent">
+                                                    <div class="mw-50 toggle">
                                                         <input class="toggle-state" type="checkbox" name="check" value="check">
                                                         <div class="toggle-inner">
                                                             <div class="indicator"></div>
                                                         </div>
                                                         <div class="active-bg"></div>
                                                     </div>
-                                                    <div class="label-text">symbols (e.g. !@#$%^)</div>
+                                                    <div class="label-text col-9">symbols (e.g. !@#$%^)</div>
                                                 </label>
 
                                                 <span id="password-option-error" class="col-12 label text-danger hidden" style="background: transparent">
@@ -240,7 +242,7 @@
                                         </div>
                                     </div>
 
-                                    <div>
+                                    <div class="col-12 my-15">
                                         <div class="btn btn--lg btn--primary" style="margin: 0 10px;" onclick="generate_password()">
                                             <span class="btn__text">
                                                 <i class="fa fa-refresh"></i>
@@ -263,6 +265,20 @@
                                             <i class="fa fa-check"></i>
                                             <span>Password Copied</span>
                                         </span>
+
+                                    </div>
+                                </div>
+                            </div>
+                            {{-- Right Side Buttons --}}
+                            <div class="col-12">
+                                <div class="menubar pull-right">
+                                    <div class="dropd dropbtn btn--sm bg-hover-primary" style="padding: 10px;background: #007bfc; transition: all .2s ease,height .2s ease;" onclick="dropdown_btn(this)">
+                                        <div class="dropbtn btn--primary bg-hover-transparent bg-transparent" style="font-weight: bold;"><i class="fa fa-share"></i> Share This Tool
+                                            <div id="myDropdown" class="dropdown-content">
+                                            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftoolzillabox.com%2Ftools%2Fjsonformatter&amp;src=sdkpreparse">Facebook</a>
+                                            <a target="_blank" href='https://twitter.com/intent/tweet?text=I%20love%20to%20share%20this%20amazing%20tool.%20I%20really%20recommend%20it.&url=https://toolzillabox.com/tools/jsonformatter'>Twitter</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -290,7 +306,7 @@
             'q'=>'How I can make my password secure and strong?',
             'answer'=>'You can read our article <a href="/blog/best-guide-to-create-a-strong-and-secure-password-in-2020/#Explain_the_password_generator_tool">Best guide To Create A Strong and secure Password  in 2020 - toolzillabox</a>'
         ],
-]])
+    ]])
 
     @include('layouts.donate')
 
@@ -310,96 +326,107 @@
         </div>
     </section>
     
-<script>
-
-// Close the dropdown menu if the user clicks outside of it
-window.onclick = function(event) {
-    if (!event.target.matches('.dropbtn')) {
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-        for (i = 0; i < dropdowns.length; i++) {
-            var openDropdown = dropdowns[i];
-            if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
-            }
-        }
-    }
-}
-
-// Generate a new password with checked options
-function generate_password() {
-    // Get Password Length From Select Tag
-    let password_length = $('#pgLength option')[0].value;
-    
-    // Get Checked Options From "Password Contains" Section
-    let capital_characters = $('.toggle-state')[0].checked;
-    let small_characters = $('.toggle-state')[1].checked;
-    let numbers = $('.toggle-state')[2].checked;
-    let symbols= $('.toggle-state')[3].checked;
-
-    // The Available Charset
-    let charset = '';
-    if (capital_characters) {
-        charset += 'ABCDEFGHIJKLMNOQRSTUVWXYZ';
-    }
-    if (small_characters) {
-        charset += 'abcdefghijklmnopqrstuvwxyz';
-    }
-    if (numbers) {
-        charset += '0123456789';
-    }
-    if (symbols) {
-        charset += '!@#$%^&*()=-_=+][}{?/\\\'"';
-    }
-
-    if (!charset)     {
-        // alert('select one option');
-        $('#password-options').addClass('border-danger');
-        $('#password-option-error').removeClass('hidden');
-        return
-    } else {
-        $('#password-options').removeClass('border-danger');
-        $('#password-option-error').addClass('hidden');
-    }
-
-    if (!password_length)     {
-        // alert('select one option');
-        $('#password_length').addClass('border-danger');
-        return
-    } else {
-        $('#password_length').removeClass('border-danger');
-    }
-    let password = '';
-
-    // Generate Random Password
-    for (i=0; i <= parseInt(password_length); i++) {
-        let randomIndex = Math.floor(Math.random() * charset.length); 
-        password += charset[randomIndex];
-    }
-
-    // Change The Value Of Input
-    $('#password-input')[0].value = password;
-
-    $('#password-copied').addClass('hidden');
-    
-}
-
-// Copy the last generated password
-function copy_password() {
-  /* Get the text field */
-  var copyText = document.getElementById("password-input");
-
-  /* Select the text field */
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
-
-  /* Copy the text inside the text field */
-  document.execCommand("copy");
-
-  $('#password-copied').removeClass('hidden');
-}
-</script>
     @include('layouts.mail')
-
+    
     @include('layouts.blog')
+
+    @section('script')
+        <script>
+        
+            // Close the dropdown menu if the user clicks outside of it
+            window.onclick = function(event) {
+                if (!event.target.matches('.dropbtn')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                    for (i = 0; i < dropdowns.length; i++) {
+                        var openDropdown = dropdowns[i];
+                        if (openDropdown.classList.contains('show')) {
+                            openDropdown.classList.remove('show');
+                        }
+                    }
+                }
+            }
+        
+            // Generate a new password with checked options
+            function generate_password() {
+                // Get Password Length From Select Tag
+                let password_length = $('#pgLength option')[0].value;
+                
+                // Get Checked Options From "Password Contains" Section
+                let capital_characters = $('.toggle-state')[0].checked;
+                let small_characters = $('.toggle-state')[1].checked;
+                let numbers = $('.toggle-state')[2].checked;
+                let symbols= $('.toggle-state')[3].checked;
+        
+                // The Available Charset
+                let charset = '';
+                if (capital_characters) {
+                    charset += 'ABCDEFGHIJKLMNOQRSTUVWXYZ';
+                }
+                if (small_characters) {
+                    charset += 'abcdefghijklmnopqrstuvwxyz';
+                }
+                if (numbers) {
+                    charset += '0123456789';
+                }
+                if (symbols) {
+                    charset += '!@#$%^&*()=-_=+][}{?/\\\'"';
+                }
+        
+                if (!charset)     {
+                    // alert('select one option');
+                    $('#password-options').addClass('border-danger');
+                    $('#password-option-error').removeClass('hidden');
+                    return
+                } else {
+                    $('#password-options').removeClass('border-danger');
+                    $('#password-option-error').addClass('hidden');
+                }
+        
+                if (!password_length)     {
+                    // alert('select one option');
+                    $('#password_length').addClass('border-danger');
+                    return
+                } else {
+                    $('#password_length').removeClass('border-danger');
+                }
+                let password = '';
+        
+                // Generate Random Password
+                for (i=0; i <= parseInt(password_length); i++) {
+                    let randomIndex = Math.floor(Math.random() * charset.length); 
+                    password += charset[randomIndex];
+                }
+        
+                // Change The Value Of Input
+                $('#password-input')[0].value = password;
+        
+                $('#password-copied').addClass('hidden');
+                
+            }
+        
+            // Copy the last generated password
+            function copy_password() {
+                /* Get the text field */
+                var copyText = document.getElementById("password-input");
+            
+                /* Select the text field */
+                copyText.select();
+                copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+            
+                /* Copy the text inside the text field */
+                document.execCommand("copy");
+            
+                $('#password-copied').removeClass('hidden');
+            }
+            
+            
+            /* When the user clicks on the button,
+            toggle between hiding and showing the dropdown content */
+            function dropdown_btn(q) {
+                $(".dropdown-content").removeClass("show");
+                $(q).find("#myDropdown").toggleClass("show");
+            }
+        </script>
+    @endsection
 @endsection

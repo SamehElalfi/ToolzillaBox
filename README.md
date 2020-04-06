@@ -5,15 +5,3 @@ ToolzillaBox, founded in 2020, is on a mission to help developers and businesses
 ToolzillaBox has made it our priority to offer a standardized highly reliable high performance in all of the tools we serve. Using an online tool has never been easier!
 
 Our goal is to provide online free tools to help content creators, brands, SEOs, and normal users, save time and grow their work with our tools.we are going to add new tools daily or weekly to make your work easy.
-
-
-## Log
-- Change numbers in about section
-- removed icons names to "coming soon"
-
-## To-Do
-- ~~ Fix the home page on the mobile/tablet versions ~~
-- ~~ build the all tools page ~~
-- ~~ build the page of the tool itself ~~
-- ~~ build support page (e.g. About Us, Cookies Privacy, etc) ~~
-- install Admin LTE 3 dashboard

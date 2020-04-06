@@ -12,7 +12,7 @@ class AboutController extends Controller
         $questions = [
             [
                 'q'=>'How can I get in touch with you?',
-                'answer'=>'You can  send me feedback or your valuable suggestions at <a href="https://toolzillabox.com/contact">Contact us</a>.'
+                'answer'=>'You can  send me feedback or your valuable suggestions at <a href="/contact">Contact us</a>.'
             ],
             [
                 'q'=>'what is ToolzillaBox?',
@@ -20,7 +20,7 @@ class AboutController extends Controller
             ],
             [
                 'q'=>'What should I do when I get an internal error?',
-                'answer'=>'Resubmit your code once or twice. If that doesn\'t help please <a href="https://toolzillabox.com/contact">Contact us</a>.'
+                'answer'=>'Resubmit your code once or twice. If that doesn\'t help please <a href="/contact">Contact us</a>.'
             ],
         ];
         return view('about.faq', compact('questions'));

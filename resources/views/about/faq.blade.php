@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.main')
 @section('title', 'FAQ')
 @section('content')
     <div class="small-header">

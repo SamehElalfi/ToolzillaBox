@@ -1,88 +1,46 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover">
-	@hasSection('title')
-		<title>@yield('title')</title>
-	@else
-		<title>ToolzillaBox</title>
-	@endif
-	
-	<meta http-equiv="expires" content="sat, 02 jun 2020 00:00:00 GMT"/>
-    <meta name="keywords" content="@yield('keywords')">
-    <meta name="description" content="@yield('description')">
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<!-- Fix chrome language detection -->
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	<meta http-equiv="Content-Language" content="en" />
+        <meta name="csrf-token" content="{{ csrf_token() }}">
 
-	<!-- Favicons -->
-	<!-- <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=1"> -->
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?v=1">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?v=1">
-    <link rel="manifest" href="/favicon/site.webmanifest">
-    <meta name="msapplication-config" content="browserconfig.xml"/>
-    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=1" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-	<meta name="theme-color" content="#ffffff">
-	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        <title>{{ config('app.name', 'ToolzillaBox Dashboard') }}</title>
+        <!-- Favicon -->
+        <link href="{{ asset('favicon/favicon-16x16.png') }}" rel="icon" type="image/png">
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+        <!-- Icons -->
+        <link href="{{ asset('argon') }}/vendor/nucleo/css/nucleo.css" rel="stylesheet">
+        <link href="{{ asset('argon') }}/vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+        <!-- Argon CSS -->
+        <link type="text/css" href="{{ asset('argon') }}/css/argon.css?v=1.0.0" rel="stylesheet">
+    </head>
+    <body class="{{ $class ?? '' }}">
+        @auth()
+            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                @csrf
+            </form>
+            @include('layouts.navbars.sidebar')
+        @endauth
+        
+        <div class="main-content">
+            @include('layouts.navbars.navbar')
+            @yield('content')
+        </div>
 
-	<!-- Styles -->
-	<link href="/dist/css/style.css?v=518" rel="stylesheet">
-	<link href="/dist/css/custom.css?v=518" rel="stylesheet">
+        @guest()
+            @include('layouts.footers.guest')
+        @endguest
 
-	<noscript>
-		<link href="/dist/css/no-script.css?v=518" rel="stylesheet">
-	</noscript>
-
-	@yield('style')
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-159229387-1"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'UA-159229387-1');
-	</script>
-
-</head>
-<body class="">
-
-	<div class="menu__overlay"></div>
-
-	<div class="site">
-
-		@include('layouts.nav')
-
-		@yield('content')
-		
-		@isset($no_footer)
-			@if (!$no_footer)
-				@include('layouts.footer')
-			@endif
-		@else
-			@include('layouts.footer')
-		@endisset
-
-	</div>
-
-	<!-- Scripts -->
-	<script src="/dist/js/jquery-3.4.1.min.js?v=518"></script>
-	<script src="/dist/js/vendor.js?v=518"></script>
-	<script src="/dist/js/main.js?v=518"></script>
-	<script src="/dist/js/lazyload.min.js?v=518"></script>
-	<script>
-		$(function(){
-			lazyload();
-			$('.full-width-slider__nav button, .full-width-slider__nav li').on('click', function(){
-				lazyload();
-			});
-		});
-	</script>
-	@yield('script')
-</body>
+        <script src="{{ asset('argon') }}/vendor/jquery/dist/jquery.min.js"></script>
+        <script src="{{ asset('argon') }}/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        
+        @stack('js')
+        
+        <!-- Argon JS -->
+        <script src="{{ asset('argon') }}/js/argon.js?v=1.0.0"></script>
+    </body>
 </html>
