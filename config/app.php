@@ -165,7 +165,6 @@ return [
         /*
          * Package Service Providers...
          */
-        // Barryvdh\Debugbar\ServiceProvider::class,
         Spatie\Permission\PermissionServiceProvider::class,
         LaravelFrontendPresets\ArgonPreset\ArgonPresetServiceProvider::class,
 

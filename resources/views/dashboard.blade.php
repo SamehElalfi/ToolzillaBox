@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('title', 'Dashboard')
 @section('content')
     @include('layouts.headers.cards')
     
@@ -86,7 +86,7 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">
-                                        /argon/
+                                        /tools/
                                     </th>
                                     <td>
                                         4,569
@@ -100,7 +100,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        /argon/index.html
+                                        /tools/jsonformatter
                                     </th>
                                     <td>
                                         3,985
@@ -114,7 +114,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        /argon/charts.html
+                                        /tools/passwordgenerator
                                     </th>
                                     <td>
                                         3,513
@@ -128,7 +128,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        /argon/tables.html
+                                        /faq
                                     </th>
                                     <td>
                                         2,050
@@ -142,7 +142,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        /argon/profile.html
+                                        /blog
                                     </th>
                                     <td>
                                         1,795

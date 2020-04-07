@@ -1,6 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
+use Analytics;
+use Spatie\Analytics\Period;
+use Carbon\Carbon;
 
 class HomeController extends Controller
 {
@@ -21,6 +24,19 @@ class HomeController extends Controller
      */
     public function index()
     {
+        // // $analyticsData = Analytics::fetchVisitorsAndPageViews(Period::months(6));
+        
+        // // $startDate = Carbon::now()->subMonths(2);
+        // $startDate = Carbon::now()->subdays(2);
+        // // $endDate = Carbon::now()->subMonth();
+        // $endDate = Carbon::now();
+        
+        // $visists = Period::create($startDate, $endDate);
+        // $analyticsData = Analytics::performQuery($visists,'ga:pageviews');
+        // dd($analyticsData[0][0]);
+
+        // dd($visists);
+
         return view('dashboard');
     }
     

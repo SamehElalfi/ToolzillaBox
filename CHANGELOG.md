@@ -1,6 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 1.0.3 - 2020-04-07
+### Changed
+- re-order argon dashboard files and provider
+- Changed the background color of dashboard home page
+
+### Added
+- Installed Spatie Google Analytics
+
+-----
+
+
 ## 1.0.2 - 2020-04-06
 ### Fixed
 - Passwords Generator Tool's Options on mobile devices.

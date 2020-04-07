@@ -7,7 +7,11 @@
 
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>{{ config('app.name', 'ToolzillaBox Dashboard') }}</title>
+        @hasSection('title')
+            <title>@yield('title')</title>
+        @else
+            <title>{{ config('app.name', 'ToolzillaBox Dashboard') }}</title>
+        @endif
         <!-- Favicon -->
         <link href="{{ asset('favicon/favicon-16x16.png') }}" rel="icon" type="image/png">
         <!-- Fonts -->
