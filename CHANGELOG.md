@@ -1,6 +1,20 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 1.0.4 - 2020-04-24
+### Changed
+- The title of the home page is more than 20 characters
+- changed the first paragraph of the home page
+- made the links in the footer wider
+- chaned the link of cookie policy from '/cookie_policy' to '/cookie-policy'
+
+### Added
+- Added the description and keywords meta tags
+- added alt attributes to images  in home page
+
+-----
+
+
 ## 1.0.3 - 2020-04-07
 ### Changed
 - re-order argon dashboard files and provider

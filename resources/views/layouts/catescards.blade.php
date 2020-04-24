@@ -7,7 +7,7 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow" href="/tools#developmentTools">
                             <div class="feature__icon">
-                                <img src="{{asset('dist/img/development.png')}}">
+                                <img src="{{asset('dist/img/development.png')}}" alt="Development Tools">
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">
@@ -82,7 +82,7 @@
                     <div class="col-3 content-slider__item">
                         <a class="feature feature--big-icon feature--boxed feature--shadow">
                             <div class="feature__icon">
-                                <img src="{{ asset('dist/img/coming-soon.png') }}">
+                                <img src="{{ asset('dist/img/coming-soon.png') }}" alt="Coming Soon">
                             </div>
                             <div class="feature__body">
                                 <h3 class="feature__title h5">

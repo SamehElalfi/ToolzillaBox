@@ -30,7 +30,7 @@ Route::middleware('throttle:60|1,1')->group(function () {
      */
     Route::prefix('/legal')->group(function () {
         Route::get('/privacy', 'LegalController@privacy')->name('privacy');
-        Route::get('/cookie_policy', 'LegalController@cookie_policy')->name('cookie_policy');
+        Route::get('/cookie-policy', 'LegalController@cookie_policy')->name('cookie_policy');
     });
 
     /**

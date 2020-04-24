@@ -4,6 +4,7 @@
 
 @section('description', 'Strong and random and secure Password generator tool creates passwords from Words and numbers and capital letters and small letters and Symbols to help you secure your device from hackers.')
 
+@section('keywords', 'Strong Random Password Generator, secure passwords Generator, Strong Password Generator, Random Password Generator, Strong Password Generator')
 
 @section('content')
 

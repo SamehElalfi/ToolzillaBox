@@ -2,10 +2,10 @@
 	<div class="container">
 		<a class="navbar__brand brand" href="/" data-logo="">
 			<div class="brand__logo">
-				<img src="/dist/img/logo.png" style="width: 200px;">
+				<img src="/dist/img/logo.png" alt="ToolzillaBox" style="width: 200px;">
 			</div>
 			<div class="brand__favicon">
-				<img src="/dist/img/brand/favicon.svg" alt="toolzillabox">
+				<img src="/dist/img/brand/favicon.svg" alt="ToolzillaBox">
 			</div>
 		</a>
 		<button class="navbar__burger burger" data-open-nav="[data-main-menu]">

@@ -25,19 +25,25 @@ class HomeController extends Controller
     public function index()
     {
         // // $analyticsData = Analytics::fetchVisitorsAndPageViews(Period::months(6));
-        
         // // $startDate = Carbon::now()->subMonths(2);
-        // $startDate = Carbon::now()->subdays(2);
         // // $endDate = Carbon::now()->subMonth();
-        // $endDate = Carbon::now();
         
-        // $visists = Period::create($startDate, $endDate);
-        // $analyticsData = Analytics::performQuery($visists,'ga:pageviews');
-        // dd($analyticsData[0][0]);
+        $last_two_months = Carbon::now()->subMonths(2);
+        $last_month = Carbon::now()->subMonths(1);
+        $now = Carbon::now();
+        
+        $time_last_month = Period::create($last_two_months, $last_month);
+        $pageviews_last_month = Analytics::performQuery($time_last_month,'ga:pageviews')[0][0];
+        if ($pageviews_last_month[0][0] == null) {
+            $pageviews_last_month = 0;
+        }
 
-        // dd($visists);
+        $time_this_month = Period::create($last_month, $now);
+        $pageviews = Analytics::performQuery($time_this_month,'ga:pageviews')[0][0];
+        
+        // dd($pageviews_this_month);
 
-        return view('dashboard');
+        return view('dashboard', compact('pageviews', 'pageviews_last_month'));
     }
     
     /**

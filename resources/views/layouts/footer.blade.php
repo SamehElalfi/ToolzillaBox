@@ -54,7 +54,7 @@
 		<div class="container">
 			<div class="footer__brand brand brand--footer">
 				<a href="/" class="brand__logo" data-logo="">
-					<img src="/dist/img/brand.png">
+					<img src="/dist/img/brand.png" alt="ToolzillaBox">
 				</a>
 				<div class="brand__content">
 					<div class="brand__title">
@@ -64,16 +64,16 @@
 				</div>
 			</div>
 			<div class="footer__bottom-nav nav nav--h">
-				<li class="nav__item">
+				<li class="nav__item" style="margin-right: 25px;">
 					<a class="nav__link" href="/legal/privacy/">Privacy Policy</a>
 				</li>
-				<li class="nav__item">
-					<a class="nav__link" href="/legal/cookie_policy/">Cookie Policy</a>
+				<li class="nav__item" style="margin-right: 25px;">
+					<a class="nav__link" href="/legal/cookie-policy/">Cookie Policy</a>
 				</li>
-				<li class="nav__item">
+				<li class="nav__item" style="margin-right: 25px;">
 					<a class="nav__link" href="/faq/">FAQ</a>
 				</li>
-				<li class="nav__item">
+				<li class="nav__item" style="margin-right: 25px;">
 					<a class="nav__link" href="https://www.facebook.com/toolzillabox">
 						<i class="fa fa-facebook is-hidden-sm-down"></i>
 						<span class="is-hidden-md-up">Facebook</span>

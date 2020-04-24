@@ -4,6 +4,8 @@
 
 @section('description', 'Online Json formatter & validator & parser & beautifies & debugs & parser & viewer & editor & Pretty Print and json data with advanced formatting and validation algorithms.')
 
+@section('keywords', 'online free json formatter , online free json Validator, online free json format, online free json viewer, online free JSON Editor, online free JSON Beautifier')
+
 @section('style')
     <style type="text/css" media="screen">
         #editor { 
@@ -67,7 +69,11 @@
 
 @section('content')
 
-    @include('layouts.header')
+    @include('layouts.header',
+        [
+            'header_title' => 'Json Formatter',
+        ]
+    )
 
     <section class="section">
         <div class="container ">
