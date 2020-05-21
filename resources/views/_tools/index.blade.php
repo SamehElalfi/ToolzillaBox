@@ -9,7 +9,7 @@
     ])
 
     <section class="section" id="apps">
-		<div class="container ">
+		<div class="container m-b-16x">
             <div class="section__content">
                 <div class="box box--apps ">
                     @include('layouts.cates')
@@ -18,7 +18,7 @@
         </div>
     </section>
 
-    @include('layouts.tools_section', [
+    {{-- @include('layouts.tools_section', [
         'section_title' => 'Development Tools',
         'tools' => [
             [
@@ -40,7 +40,7 @@
                 'description'=>'Generate Secure, Strong and random Passwords'
             ]
         ]
-    ])
+    ]) --}}
 
     @include('layouts.donate')
 

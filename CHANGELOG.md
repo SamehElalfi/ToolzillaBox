@@ -1,7 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## 1.0.4 - 2020-04-24
+## v1.2 - 2020-05-21
+### Changed
+- rebuilt the URL Structure
+
+### Added
+- Finished the basics of the dashboard
+
+-----
+
+## v1.0.4 - 2020-04-24
 ### Changed
 - The title of the home page is more than 20 characters
 - changed the first paragraph of the home page

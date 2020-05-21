@@ -88,13 +88,13 @@
                         <i class="ni ni-single-02 text-yellow"></i> {{ __('User profile') }}
                     </a>
                 </li>
-                @canany(['view status'])
+                {{-- @canany(['view status'])
                 <li class="nav-item">
                     <a class="nav-link" href="#">
                         <i class="ni ni-app text-orange"></i> {{ __('Status') }}
                     </a>
                 </li>
-                @endcanany
+                @endcanany --}}
 
                 @canany(['add user', 'edit user', 'remove user', 'activate user'])
                 <li class="nav-item">
@@ -112,31 +112,23 @@
                 </li>
                 @endcanany
 
-                @canany(['edit tool', 'add tool', 'remove tool', 'activate tool'])
+                @canany(['add category', 'edit category', 'remove category', 'activate category'])
                 <li class="nav-item">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="{{ route('settings.category.edit') }}">
+                        <i class="fa fa-tags"></i> {{ __('Categories') }}
+                    </a>
+                </li>
+                @endcanany
+
+
+                @canany(['edit tool', 'add tool', 'remove tool', 'activate tool', 'edit tool page', 'activate tool page'])
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('settings.tool.edit') }}">
                         <i class="ni ni-app text-orange"></i> {{ __('Tools') }}
                     </a>
                 </li>
                 @endcanany
-
-                @canany(['edit tool page', 'activate tool page'])
-                <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        <i class="ni ni-app text-orange"></i> {{ __('Tools Details') }}
-                    </a>
-                </li>
-                @endcanany
-
-                @canany(['add category', 'edit category', 'remove category', 'activate category'])
-                <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        <i class="ni ni-app text-orange"></i> {{ __('Categories') }}
-                    </a>
-                </li>
-                @endcanany
-
-                @canany(['edit settings'])
+                {{-- @canany(['edit settings'])
                 <li class="nav-item">
                     <a class="nav-link" href="#">
                         <i class="ni ni-app text-orange"></i> {{ __('Settings') }}
@@ -158,12 +150,12 @@
                         <i class="ni ni-app text-orange"></i> {{ __('Messages') }}
                     </a>
                 </li>
-                @endcanany
+                @endcanany --}}
             </ul>
             <!-- Divider -->
-            <hr class="my-3">
+            {{-- <hr class="my-3">
             <!-- Heading -->
-            <h6 class="navbar-heading text-muted">Other</h6>
+            <h6 class="navbar-heading text-muted">Other2</h6>
             <!-- Navigation -->
             <ul class="navbar-nav mb-md-3">
                 <li class="nav-item">
@@ -181,7 +173,7 @@
                         <i class="ni ni-ui-04"></i> Components
                     </a>
                 </li>
-            </ul>
+            </ul> --}}
         </div>
     </div>
 </nav>

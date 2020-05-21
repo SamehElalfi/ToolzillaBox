@@ -26,12 +26,12 @@
                 <div class="list-group__item collapsed" data-toggle="lu-collapse" data-target="#usage-{{ $key }}" aria-expanded="true">
                     <a>
                         <div class="list-group__top top">
-                            <h3 class="top__title h5">{{ $question['q'] }}</h3>
+                            <h3 class="top__title h5">{{ $question->question }}</h3>
                         </div>
                     </a>
                     <div class="list-group__content collapse" data-parent="#faq-bill" id="usage-{{ $key }}" style="">
                         <div class="list-group__content-inner">
-                            <p>{!! $question['answer'] !!}</p>
+                            <p>{!! $question->answer !!}</p>
                         </div>
                     </div>
                 </div>

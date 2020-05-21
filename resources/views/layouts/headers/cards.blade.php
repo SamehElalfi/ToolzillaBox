@@ -18,7 +18,7 @@
                                 </div>
                             </div>
                             <p class="mt-3 mb-0 text-muted text-sm">
-                                <span class="text-success mr-2"><i class="fa {{ $pageviews < $pageviews_last_month ? 'fa-arrow-down' : 'fa-arrow-up' }}"></i> {{ $pageviews < $pageviews_last_month ? '-' : '+' }}{{ $pageviews_last_month*100/$pageviews ?? 'No Data'}}%</span>
+                                <span class="text-success mr-2"><i class="fa {{ isset($pageviews) ? ($pageviews < $pageviews_last_month ? 'fa-arrow-down' : 'fa-arrow-up') : '' }}"></i></span>
                                 <span class="text-nowrap">Since last month</span>
                             </p>
                         </div>
